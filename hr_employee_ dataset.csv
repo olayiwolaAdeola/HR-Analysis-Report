@@ -1,0 +1,1001 @@
+Employee_ID,Employee_Name,Hire_Date,Department,Job_Title,Gender,Age,Age Group,Salary,Bonus,Performance_Score,Status,Tenure_Years,Work_Location,Education_Level,Marital_Status
+1,Jessica Thomas,11/11/2021,Marketing,Specialist,Male,30,Young,85863,13327,4.1,Terminated,1,Headquarters,High School,Single
+2,James Davis,2/14/2022,Finance,Engineer,Male,59,Experienced,74224,15270,1,Active,1,Branch A,PhD,Single
+3,James Williams,10/22/2022,Sales,Coordinator,Female,27,Young,81306,16523,1,Terminated,9,Headquarters,Associate,Divorced
+4,Barbara Williams,6/26/2016,Finance,Manager,Female,40,Middle Age,73343,15300,1.3,Active,6,Headquarters,High School,Divorced
+5,Patricia Wilson,9/3/2015,Finance,Coordinator,Female,32,Middle Age,113379,11775,2.8,Active,1,Headquarters,Master,Married
+6,Susan Williams,8/24/2023,IT,Coordinator,Female,23,Young,148560,13265,4.9,Terminated,1,Remote,Master,Single
+7,Thomas Martinez,8/7/2016,Sales,Specialist,Female,30,Young,107565,17673,2.3,Active,8,Branch A,Associate,Divorced
+8,Christopher Smith,11/24/2021,Sales,Engineer,Non-Binary,42,Middle Age,52868,7614,1,On Leave,6,Branch A,PhD,Widowed
+9,Barbara Smith,12/11/2023,Sales,Analyst,Male,45,Middle Age,95987,4252,2.8,Terminated,2,Remote,Master,Widowed
+10,Michael Jackson,8/23/2017,Finance,Engineer,Male,55,Experienced,77860,8415,2.8,Terminated,2,Branch A,Master,Single
+11,Karen Brown,10/3/2015,Marketing,Engineer,Male,43,Middle Age,60305,17662,3.5,Terminated,6,Headquarters,PhD,Widowed
+12,Thomas Thomas,4/16/2022,Sales,Coordinator,Male,24,Young,103197,12116,3.4,On Leave,4,Branch A,High School,Married
+13,Joseph Martinez,9/1/2018,Operations,Engineer,Male,33,Middle Age,132700,17964,1.9,Terminated,9,Remote,Master,Divorced
+14,James Martin,3/11/2019,Finance,Manager,Male,49,Middle Age,76956,5958,1.9,Active,5,Headquarters,Bachelor,Divorced
+15,Thomas Hernandez,7/8/2017,IT,Coordinator,Male,51,Experienced,83228,5276,3.7,Active,7,Remote,Master,Divorced
+16,William Jackson,2/3/2023,Marketing,Manager,Male,47,Middle Age,146164,5776,1.1,Active,8,Branch B,High School,Single
+17,Mary Hernandez,6/14/2015,Operations,Analyst,Non-Binary,42,Middle Age,121230,18208,4.5,Terminated,0,Headquarters,High School,Widowed
+18,Thomas Lopez,3/14/2021,Operations,Coordinator,Male,49,Middle Age,45692,4832,2.1,Active,2,Headquarters,Associate,Married
+19,Barbara Thomas,9/14/2017,IT,Analyst,Non-Binary,47,Middle Age,140437,15901,1.6,Terminated,6,Branch A,Bachelor,Single
+20,Joseph Hernandez,8/23/2021,Marketing,Coordinator,Female,54,Experienced,75040,6445,4.5,Active,5,Headquarters,High School,Divorced
+21,Sarah Jackson,8/4/2022,Finance,Specialist,Male,42,Middle Age,74499,2380,4.2,On Leave,6,Remote,PhD,Married
+22,Elizabeth Smith,5/23/2022,HR,Engineer,Female,56,Experienced,46887,10865,3.9,On Leave,7,Branch A,Bachelor,Divorced
+23,Susan Gonzalez,11/6/2023,Marketing,Specialist,Female,55,Experienced,118606,14926,3,On Leave,5,Branch B,Bachelor,Divorced
+24,Karen Smith,6/28/2021,IT,Analyst,Female,62,Experienced,62541,12580,2.8,On Leave,2,Remote,PhD,Single
+25,Joseph Martinez,1/31/2016,Operations,Engineer,Non-Binary,39,Middle Age,35510,6634,5,Terminated,1,Branch B,Master,Divorced
+26,Jennifer Wilson,11/18/2018,Finance,Coordinator,Female,32,Middle Age,122834,6810,2,Active,6,Branch B,PhD,Married
+27,James Jones,3/28/2017,Marketing,Engineer,Female,44,Middle Age,66952,11179,4,On Leave,0,Branch B,PhD,Divorced
+28,Michael Gonzalez,10/24/2022,HR,Manager,Female,43,Middle Age,73357,13251,1.3,Terminated,2,Headquarters,Master,Widowed
+29,Karen Gonzalez,11/24/2015,HR,Engineer,Male,38,Middle Age,113934,14131,1.1,On Leave,3,Remote,Master,Divorced
+30,Karen Taylor,9/26/2021,Sales,Manager,Male,26,Young,34780,13707,1.5,On Leave,0,Remote,Master,Single
+31,John Thomas,9/5/2017,Sales,Engineer,Non-Binary,32,Middle Age,103400,19233,3.4,Terminated,4,Headquarters,Master,Married
+32,Thomas Johnson,3/18/2019,IT,Manager,Non-Binary,51,Experienced,107733,3749,3.3,Terminated,9,Branch A,Master,Single
+33,James Jackson,9/21/2023,Marketing,Analyst,Male,36,Middle Age,74185,14156,2.9,Active,2,Branch B,PhD,Widowed
+34,James Hernandez,12/19/2019,Marketing,Specialist,Non-Binary,48,Middle Age,97775,17589,1.9,Active,1,Remote,Associate,Divorced
+35,Susan Martin,11/29/2023,Operations,Coordinator,Male,56,Experienced,61089,4450,2.4,On Leave,2,Headquarters,Associate,Single
+36,Thomas Garcia,7/24/2016,Operations,Engineer,Female,54,Experienced,33880,8214,1.9,On Leave,7,Branch B,High School,Single
+37,James Brown,3/9/2021,Operations,Specialist,Female,41,Middle Age,64253,12814,1.5,Active,5,Branch A,Associate,Single
+38,Barbara Garcia,1/16/2019,Sales,Coordinator,Non-Binary,37,Middle Age,92194,6141,4.1,Active,6,Branch A,Associate,Single
+39,Mary Hernandez,3/7/2018,Marketing,Coordinator,Male,55,Experienced,138301,3708,4.2,Terminated,5,Branch B,PhD,Widowed
+40,James Wilson,9/4/2017,Marketing,Manager,Male,23,Young,31782,19375,3.8,Active,5,Branch A,Master,Widowed
+41,Charles Williams,12/26/2022,HR,Analyst,Non-Binary,56,Experienced,53601,16088,2,Active,2,Remote,Master,Divorced
+42,David Hernandez,8/29/2021,Sales,Analyst,Male,61,Experienced,114707,12834,3.5,On Leave,7,Remote,PhD,Divorced
+43,David Wilson,10/29/2015,Finance,Specialist,Female,49,Middle Age,82205,13278,4.2,Active,6,Remote,Associate,Married
+44,Elizabeth Jackson,4/4/2018,Sales,Analyst,Non-Binary,60,Experienced,141275,11014,3.7,On Leave,6,Branch A,PhD,Widowed
+45,James Miller,8/19/2015,Finance,Engineer,Non-Binary,27,Young,81757,4273,2.2,Active,5,Remote,High School,Single
+46,Charles Miller,6/16/2015,HR,Analyst,Male,30,Young,105546,15367,4.5,Terminated,4,Headquarters,Master,Single
+47,Elizabeth Brown,12/27/2015,IT,Specialist,Non-Binary,41,Middle Age,126163,5538,3.5,Active,9,Remote,Bachelor,Married
+48,Sarah Williams,5/7/2015,Marketing,Analyst,Male,22,Young,77718,13541,5,Active,7,Remote,High School,Single
+49,David Miller,11/13/2020,HR,Engineer,Male,29,Young,71562,9712,1.7,Active,4,Branch A,High School,Married
+50,Elizabeth Lopez,5/9/2022,Marketing,Manager,Male,44,Middle Age,129919,10168,3.6,On Leave,8,Remote,PhD,Divorced
+51,Michael Garcia,10/17/2023,Operations,Specialist,Male,24,Young,41598,4551,2.2,Terminated,8,Branch B,Associate,Widowed
+52,William Lopez,6/30/2023,IT,Manager,Male,25,Young,99959,13297,4.4,Active,0,Headquarters,Master,Married
+53,Barbara Smith,6/13/2015,IT,Manager,Non-Binary,46,Middle Age,112996,11965,2.2,On Leave,5,Branch A,Bachelor,Single
+54,Jennifer Wilson,3/20/2021,HR,Manager,Female,59,Experienced,149138,3832,4.9,Terminated,6,Headquarters,High School,Married
+55,Jessica Thomas,2/16/2021,IT,Coordinator,Female,36,Middle Age,120046,14422,4.6,On Leave,2,Branch B,Bachelor,Divorced
+56,Barbara Rodriguez,6/19/2021,Finance,Coordinator,Non-Binary,42,Middle Age,45406,1152,4.2,On Leave,6,Branch A,Associate,Single
+57,Christopher Smith,2/3/2019,IT,Manager,Non-Binary,56,Experienced,55536,12156,2,Terminated,6,Branch A,Associate,Divorced
+58,Susan Gonzalez,4/11/2023,Marketing,Specialist,Female,35,Middle Age,80402,12108,1.1,Active,1,Remote,Bachelor,Divorced
+59,Elizabeth Wilson,5/28/2022,Marketing,Engineer,Female,57,Experienced,56013,3800,1.4,On Leave,6,Headquarters,Master,Married
+60,James Johnson,1/4/2016,Marketing,Engineer,Female,33,Middle Age,59616,6310,1,On Leave,0,Branch B,Associate,Divorced
+61,Karen Thomas,1/17/2015,Marketing,Analyst,Female,38,Middle Age,60435,10944,3.1,Active,4,Branch B,Bachelor,Single
+62,David Martin,8/8/2021,Finance,Specialist,Female,60,Experienced,129237,3610,1.6,Active,8,Branch A,High School,Divorced
+63,Michael Lopez,10/15/2020,Sales,Coordinator,Male,30,Young,37074,13067,4.9,Terminated,6,Remote,Bachelor,Divorced
+64,Karen Williams,11/2/2015,Operations,Manager,Non-Binary,56,Experienced,125722,2104,1.8,Terminated,6,Branch A,Bachelor,Married
+65,John Brown,11/2/2015,HR,Analyst,Male,34,Middle Age,117471,11728,2,Terminated,1,Branch A,PhD,Divorced
+66,Thomas Johnson,12/24/2021,Marketing,Engineer,Female,36,Middle Age,47436,8263,3.9,Active,7,Branch A,Associate,Widowed
+67,William Hernandez,11/17/2021,IT,Coordinator,Female,39,Middle Age,92003,2914,1.2,On Leave,2,Branch A,Master,Married
+68,Jennifer Brown,5/25/2019,Marketing,Coordinator,Female,54,Experienced,70510,1406,2.6,On Leave,7,Branch B,Master,Married
+69,Karen Moore,5/20/2022,IT,Manager,Male,27,Young,114340,14689,4,Terminated,2,Branch B,PhD,Single
+70,Thomas Martinez,7/21/2015,Operations,Engineer,Male,48,Middle Age,122603,1166,4.6,Active,9,Branch A,Master,Single
+71,Joseph Thomas,8/12/2021,Operations,Specialist,Female,44,Middle Age,56105,1508,3.2,On Leave,6,Branch A,Bachelor,Single
+72,Karen Jones,9/2/2017,Operations,Coordinator,Male,48,Middle Age,78742,19045,4.2,Terminated,1,Remote,PhD,Single
+73,Elizabeth Garcia,4/22/2019,IT,Manager,Male,55,Experienced,82149,4664,1.8,On Leave,3,Branch A,High School,Widowed
+74,Linda Williams,3/18/2023,Marketing,Specialist,Female,59,Experienced,123166,14050,3,On Leave,5,Branch B,Associate,Married
+75,Mary Lopez,5/28/2015,Operations,Engineer,Male,35,Middle Age,30769,1680,1.4,Active,8,Headquarters,Associate,Divorced
+76,David Martin,5/21/2020,Finance,Coordinator,Non-Binary,57,Experienced,45826,19908,3.5,Active,4,Branch B,Associate,Single
+77,John Taylor,9/18/2020,IT,Specialist,Non-Binary,29,Young,121634,19504,4.5,On Leave,8,Remote,Bachelor,Single
+78,Charles Jackson,10/9/2023,IT,Specialist,Non-Binary,56,Experienced,144432,5357,2.1,Terminated,4,Branch B,High School,Single
+79,Thomas Jackson,6/15/2022,Marketing,Specialist,Non-Binary,40,Middle Age,81752,2363,1.5,Active,9,Headquarters,PhD,Divorced
+80,William Miller,10/31/2023,IT,Coordinator,Female,51,Experienced,75177,10523,2.9,On Leave,7,Branch A,PhD,Single
+81,Patricia Jackson,8/10/2020,IT,Coordinator,Female,35,Middle Age,81930,3292,1.5,Active,0,Headquarters,Associate,Divorced
+82,John Anderson,11/25/2022,Operations,Analyst,Female,41,Middle Age,104541,2538,1.7,Active,6,Branch A,High School,Married
+83,Sarah Johnson,5/28/2022,Marketing,Engineer,Non-Binary,46,Middle Age,54372,4408,1.4,Active,3,Branch A,High School,Married
+84,Barbara Rodriguez,5/11/2022,Operations,Manager,Non-Binary,61,Experienced,111992,9752,2.3,On Leave,4,Branch B,High School,Married
+85,Linda Garcia,7/28/2015,Operations,Specialist,Male,45,Middle Age,149478,19287,3.3,Terminated,5,Branch B,Master,Widowed
+86,Jennifer Moore,6/16/2018,Marketing,Analyst,Male,35,Middle Age,121027,1174,2.6,Terminated,4,Branch B,Master,Divorced
+87,John Davis,7/19/2020,HR,Manager,Non-Binary,47,Middle Age,80605,3230,4.4,Terminated,0,Remote,Associate,Single
+88,Christopher Garcia,9/17/2019,Operations,Analyst,Non-Binary,59,Experienced,62843,5287,4.6,Active,8,Branch B,High School,Single
+89,Barbara Hernandez,7/14/2023,Finance,Coordinator,Non-Binary,44,Middle Age,56855,13112,2.1,On Leave,1,Remote,High School,Single
+90,Robert Jackson,6/22/2016,Finance,Specialist,Non-Binary,43,Middle Age,67192,8106,4.5,Active,8,Branch B,PhD,Single
+91,Linda Hernandez,2/12/2016,IT,Manager,Male,40,Middle Age,59220,10689,2.3,Terminated,9,Branch A,PhD,Widowed
+92,Joseph Lopez,6/24/2019,Finance,Manager,Non-Binary,24,Young,112072,13046,2.9,Terminated,1,Remote,Associate,Single
+93,Michael Martin,9/9/2017,IT,Manager,Male,63,Experienced,130727,18951,2.2,On Leave,8,Headquarters,High School,Widowed
+94,John Garcia,11/28/2022,HR,Manager,Non-Binary,40,Middle Age,105422,2151,1.4,Active,5,Remote,Associate,Divorced
+95,Patricia Miller,2/24/2022,Marketing,Manager,Non-Binary,30,Young,86187,8619,3.3,Terminated,8,Remote,PhD,Married
+96,Joseph Garcia,6/12/2022,Marketing,Analyst,Non-Binary,49,Middle Age,46999,7033,2.5,On Leave,5,Headquarters,PhD,Single
+97,Robert Moore,6/17/2023,Marketing,Specialist,Male,41,Middle Age,43735,9560,1.7,Active,5,Remote,Master,Married
+98,Joseph Lopez,2/20/2017,Finance,Coordinator,Male,28,Young,88663,5946,4.6,Active,1,Branch A,Associate,Divorced
+99,Mary Wilson,3/17/2019,HR,Coordinator,Female,35,Middle Age,115729,2907,1.2,Terminated,7,Branch B,Associate,Divorced
+100,Joseph Thomas,12/25/2017,Finance,Coordinator,Non-Binary,30,Young,70733,4490,2.9,Terminated,2,Headquarters,High School,Single
+101,Sarah Gonzalez,2/21/2020,Finance,Coordinator,Female,40,Middle Age,77096,19919,3.1,Active,6,Branch B,High School,Divorced
+102,Mary Davis,5/13/2017,HR,Analyst,Female,35,Middle Age,43906,5173,1.5,Active,4,Branch A,Master,Married
+103,James Davis,10/25/2015,HR,Engineer,Male,59,Experienced,61825,12065,3.2,Terminated,2,Headquarters,Bachelor,Single
+104,David Brown,7/2/2016,HR,Specialist,Male,57,Experienced,43468,18677,2.6,Active,0,Branch B,Bachelor,Widowed
+105,Susan Wilson,10/22/2016,HR,Manager,Female,61,Experienced,118796,5769,4.9,Terminated,7,Branch B,Bachelor,Single
+106,Karen Gonzalez,10/31/2015,Marketing,Engineer,Non-Binary,38,Middle Age,89795,5796,1.6,Active,2,Branch A,Associate,Married
+107,Susan Brown,9/27/2019,Sales,Coordinator,Male,51,Experienced,30377,14046,4.3,Terminated,1,Branch B,Associate,Single
+108,Sarah Hernandez,8/19/2023,Sales,Engineer,Non-Binary,30,Young,67606,15211,2.2,On Leave,0,Branch A,PhD,Single
+109,Karen Moore,6/9/2015,HR,Specialist,Non-Binary,54,Experienced,61242,5997,3.1,Terminated,3,Remote,Associate,Married
+110,Jessica Miller,1/6/2018,Sales,Manager,Female,46,Middle Age,116021,18376,3.8,Terminated,7,Branch A,Associate,Single
+111,Jennifer Hernandez,6/18/2021,Sales,Manager,Female,35,Middle Age,35291,9112,2.1,On Leave,2,Remote,Associate,Single
+112,Susan Johnson,11/6/2019,HR,Specialist,Female,32,Middle Age,126773,6287,4.2,Active,0,Headquarters,Master,Married
+113,Elizabeth Hernandez,1/7/2015,Sales,Specialist,Female,56,Experienced,105074,11578,3,On Leave,3,Branch B,Associate,Divorced
+114,Robert Gonzalez,6/29/2020,Finance,Coordinator,Male,62,Experienced,76111,19624,1.7,Terminated,8,Branch A,High School,Married
+115,James Jones,11/18/2021,IT,Manager,Male,35,Middle Age,54355,18860,1.7,Active,0,Branch A,High School,Single
+116,Thomas Martinez,9/12/2020,IT,Engineer,Female,51,Experienced,70561,7426,2.2,On Leave,1,Branch B,PhD,Widowed
+117,Robert Thomas,9/15/2021,HR,Analyst,Male,62,Experienced,95246,12599,1.2,Active,8,Branch B,Master,Widowed
+118,Linda Brown,5/27/2022,Marketing,Analyst,Female,25,Young,65922,1389,2.6,Active,1,Headquarters,High School,Married
+119,Sarah Smith,7/8/2017,HR,Specialist,Non-Binary,25,Young,137143,1999,4.8,On Leave,2,Headquarters,Master,Widowed
+120,Sarah Taylor,3/31/2022,Marketing,Coordinator,Non-Binary,49,Middle Age,141950,13812,4.6,Active,6,Branch A,Master,Single
+121,Susan Brown,2/13/2018,IT,Analyst,Non-Binary,29,Young,70349,16599,3.5,On Leave,2,Headquarters,PhD,Single
+122,Robert Jackson,3/3/2020,HR,Manager,Female,23,Young,109023,2855,3.1,Terminated,8,Remote,Master,Married
+123,Patricia Thomas,3/11/2021,Operations,Specialist,Non-Binary,62,Experienced,56958,9125,4,Active,5,Headquarters,Associate,Single
+124,Charles Moore,10/28/2020,Finance,Engineer,Male,43,Middle Age,130592,14794,3.5,Terminated,2,Headquarters,Master,Divorced
+125,Patricia Johnson,1/28/2019,Sales,Specialist,Non-Binary,62,Experienced,124279,3763,4,Terminated,8,Branch A,PhD,Single
+126,Joseph Jackson,6/22/2019,Marketing,Engineer,Non-Binary,37,Middle Age,133943,5986,4.9,Active,0,Remote,PhD,Married
+127,Karen Davis,10/10/2016,Operations,Specialist,Non-Binary,50,Middle Age,127014,2481,5,On Leave,9,Headquarters,PhD,Divorced
+128,Thomas Moore,6/9/2019,Sales,Specialist,Male,51,Experienced,135518,4731,3.3,Active,2,Remote,High School,Divorced
+129,Charles Williams,9/2/2018,Sales,Specialist,Female,33,Middle Age,145758,17835,3.4,Terminated,0,Remote,Associate,Widowed
+130,Patricia Williams,9/5/2017,HR,Engineer,Male,56,Experienced,44326,18266,2.2,Terminated,1,Remote,High School,Single
+131,Sarah Taylor,2/13/2015,Sales,Engineer,Female,32,Middle Age,41036,11758,3,On Leave,7,Branch B,Bachelor,Married
+132,Karen Taylor,8/31/2021,Finance,Specialist,Female,42,Middle Age,123956,17311,4.6,Active,6,Branch B,Associate,Widowed
+133,Charles Jackson,8/14/2019,Operations,Analyst,Non-Binary,42,Middle Age,105170,9566,2,Terminated,1,Branch B,Master,Widowed
+134,Linda Gonzalez,6/11/2022,Sales,Coordinator,Female,26,Young,112713,12889,4.1,Terminated,1,Branch B,PhD,Single
+135,James Davis,9/18/2021,HR,Coordinator,Male,41,Middle Age,123288,12254,4.8,Terminated,8,Branch A,Bachelor,Single
+136,William Moore,5/15/2020,Finance,Coordinator,Male,58,Experienced,66249,12442,4.1,On Leave,5,Headquarters,Associate,Married
+137,Jessica Miller,4/24/2021,IT,Engineer,Female,24,Young,94660,14521,2.8,Terminated,4,Branch B,High School,Widowed
+138,John Martin,6/7/2022,Operations,Engineer,Non-Binary,54,Experienced,41407,5559,4.1,Terminated,9,Branch A,PhD,Married
+139,Thomas Wilson,5/31/2019,Sales,Analyst,Non-Binary,30,Young,99209,17199,2.9,Active,5,Headquarters,High School,Widowed
+140,Linda Moore,4/5/2016,HR,Coordinator,Male,30,Young,92265,8291,4.6,Active,8,Branch B,Associate,Widowed
+141,Thomas Taylor,10/5/2020,IT,Coordinator,Non-Binary,25,Young,117272,9160,4,Terminated,6,Headquarters,Associate,Widowed
+142,Michael Jones,12/17/2023,IT,Specialist,Female,56,Experienced,73020,1112,1.3,Terminated,9,Branch B,Bachelor,Single
+143,Patricia Lopez,7/18/2019,Marketing,Engineer,Female,38,Middle Age,75935,16924,4.6,Active,9,Branch A,Master,Widowed
+144,James Moore,7/17/2018,Finance,Coordinator,Male,55,Experienced,106882,17523,4.4,On Leave,8,Remote,High School,Widowed
+145,John Taylor,1/3/2022,Sales,Analyst,Female,45,Middle Age,88294,2424,3.4,On Leave,3,Remote,Bachelor,Widowed
+146,Jennifer Gonzalez,6/9/2019,HR,Analyst,Male,53,Experienced,76997,11808,1.7,On Leave,1,Headquarters,PhD,Divorced
+147,Linda Williams,1/6/2019,Marketing,Coordinator,Female,22,Young,36445,7043,4.9,On Leave,7,Branch A,Master,Single
+148,Barbara Jones,9/7/2016,Finance,Engineer,Male,29,Young,144213,7989,1.6,On Leave,3,Remote,Bachelor,Divorced
+149,James Thomas,11/11/2017,Marketing,Analyst,Non-Binary,44,Middle Age,72971,7261,4,On Leave,8,Branch B,High School,Single
+150,Joseph Gonzalez,10/11/2021,Operations,Specialist,Female,61,Experienced,44346,1887,3,On Leave,3,Remote,Associate,Married
+151,Michael Wilson,12/21/2020,Finance,Analyst,Female,33,Middle Age,49879,17433,4,On Leave,7,Headquarters,PhD,Divorced
+152,Robert Rodriguez,12/20/2015,Finance,Manager,Male,33,Middle Age,83165,17402,3.6,Active,8,Headquarters,High School,Married
+153,John Davis,6/1/2023,Sales,Manager,Male,36,Middle Age,51868,13253,4.4,On Leave,8,Branch A,Master,Widowed
+154,Barbara Martinez,5/27/2020,Finance,Engineer,Female,62,Experienced,146701,19990,4.3,On Leave,9,Headquarters,Master,Married
+155,Michael Hernandez,7/1/2017,Marketing,Coordinator,Male,40,Middle Age,75331,8846,3.8,On Leave,3,Remote,Associate,Married
+156,Christopher Moore,11/11/2020,Finance,Engineer,Female,47,Middle Age,42418,7432,1.5,Terminated,0,Remote,Associate,Married
+157,Karen Gonzalez,8/7/2022,Sales,Engineer,Non-Binary,50,Middle Age,35047,14452,2.3,Active,2,Remote,PhD,Married
+158,William Johnson,3/28/2016,Sales,Engineer,Male,43,Middle Age,123937,14395,2.8,Active,8,Remote,PhD,Single
+159,John Garcia,2/5/2019,Operations,Engineer,Female,61,Experienced,142630,4765,4.2,Active,3,Branch A,Associate,Divorced
+160,Susan Thomas,8/15/2018,Marketing,Specialist,Non-Binary,42,Middle Age,90263,19822,3,On Leave,4,Branch B,Associate,Single
+161,Jessica Davis,8/20/2022,IT,Specialist,Non-Binary,59,Experienced,36210,16950,2.1,On Leave,6,Branch B,Master,Single
+162,Barbara Moore,10/3/2022,IT,Analyst,Female,41,Middle Age,127809,13502,4.2,Terminated,4,Branch A,Associate,Single
+163,Susan Jackson,12/15/2018,Finance,Manager,Male,50,Middle Age,31158,10741,4.8,Active,3,Headquarters,Bachelor,Married
+164,Jennifer Garcia,9/17/2019,Operations,Engineer,Female,25,Young,93067,6941,2.2,On Leave,1,Branch B,High School,Single
+165,Charles Hernandez,3/6/2019,HR,Analyst,Non-Binary,28,Young,43927,5855,2.1,Active,1,Headquarters,Associate,Divorced
+166,David Martin,7/13/2019,Finance,Manager,Female,49,Middle Age,90351,16166,4.1,Terminated,3,Branch B,PhD,Single
+167,James Rodriguez,4/15/2016,Operations,Coordinator,Male,49,Middle Age,147731,6788,3.9,Terminated,9,Headquarters,Bachelor,Widowed
+168,Joseph Miller,9/5/2018,Marketing,Specialist,Non-Binary,25,Young,77664,1201,4.2,Terminated,9,Branch A,PhD,Married
+169,Christopher Jackson,9/3/2017,Marketing,Manager,Female,43,Middle Age,53596,11561,3.2,Active,8,Remote,Bachelor,Widowed
+170,Robert Hernandez,2/17/2022,Marketing,Coordinator,Male,33,Middle Age,89417,17901,5,On Leave,7,Headquarters,Associate,Divorced
+171,Jennifer Martinez,5/19/2019,Marketing,Manager,Non-Binary,24,Young,74851,8737,1.4,On Leave,2,Remote,High School,Divorced
+172,James Hernandez,2/4/2016,Marketing,Specialist,Male,43,Middle Age,74697,2988,2.7,Terminated,8,Headquarters,PhD,Divorced
+173,Jessica Martinez,11/16/2019,Operations,Specialist,Non-Binary,23,Young,57413,16441,4.5,On Leave,4,Headquarters,Bachelor,Divorced
+174,Karen Smith,11/6/2018,Operations,Analyst,Female,45,Middle Age,122970,12737,1.1,Terminated,2,Headquarters,Master,Single
+175,Sarah Anderson,8/14/2019,Sales,Engineer,Male,55,Experienced,128543,15256,1.7,Active,4,Headquarters,Associate,Married
+176,Patricia Brown,5/16/2018,IT,Manager,Non-Binary,48,Middle Age,52186,8162,3.8,Terminated,9,Headquarters,High School,Divorced
+177,Elizabeth Rodriguez,11/6/2021,Marketing,Manager,Male,62,Experienced,70882,14065,2.1,Active,3,Remote,Associate,Widowed
+178,Charles Wilson,11/23/2020,HR,Coordinator,Male,22,Young,95068,15114,1.4,Terminated,7,Headquarters,Master,Divorced
+179,David Jones,1/29/2023,Operations,Specialist,Female,29,Young,38870,9399,4.9,On Leave,4,Remote,High School,Married
+180,Michael Williams,3/24/2020,HR,Manager,Male,44,Middle Age,105351,6633,2.4,On Leave,9,Branch A,Master,Widowed
+181,John Garcia,1/19/2017,HR,Specialist,Non-Binary,59,Experienced,149229,6755,3.5,Terminated,7,Branch B,Associate,Widowed
+182,Barbara Williams,11/17/2023,HR,Manager,Non-Binary,27,Young,89006,11825,2.8,On Leave,8,Headquarters,Bachelor,Widowed
+183,Christopher Gonzalez,3/7/2021,Sales,Analyst,Non-Binary,43,Middle Age,94911,5117,2.4,On Leave,3,Branch B,Associate,Single
+184,Michael Rodriguez,3/22/2022,Operations,Engineer,Non-Binary,46,Middle Age,86860,2518,2.7,On Leave,6,Remote,Associate,Divorced
+185,Barbara Davis,10/16/2018,HR,Manager,Female,39,Middle Age,52016,17346,3,Active,1,Branch A,Associate,Single
+186,Elizabeth Lopez,9/3/2022,Marketing,Specialist,Male,38,Middle Age,97844,3600,4.1,On Leave,5,Branch A,PhD,Widowed
+187,Barbara Smith,11/12/2023,Finance,Analyst,Female,33,Middle Age,106333,14237,1.1,Active,7,Branch A,Master,Single
+188,Patricia Thomas,9/18/2016,HR,Manager,Male,27,Young,66167,19579,4.2,Terminated,6,Branch B,Master,Single
+189,James Jones,12/24/2021,Sales,Coordinator,Male,47,Middle Age,131861,4554,1.6,On Leave,6,Remote,Master,Single
+190,James Miller,5/21/2020,Operations,Engineer,Male,48,Middle Age,47183,17193,1.5,On Leave,7,Headquarters,PhD,Divorced
+191,James Miller,11/6/2017,Sales,Manager,Female,29,Young,37773,16253,4,On Leave,6,Headquarters,Bachelor,Widowed
+192,Jessica Gonzalez,1/16/2023,HR,Analyst,Male,40,Middle Age,99340,17194,4.5,Terminated,4,Remote,Associate,Widowed
+193,Charles Johnson,12/9/2019,Operations,Coordinator,Female,63,Experienced,59670,2742,3.7,Active,6,Branch B,Bachelor,Divorced
+194,Sarah Hernandez,6/21/2016,Finance,Analyst,Non-Binary,22,Young,96160,2306,3,Active,9,Headquarters,PhD,Single
+195,Mary Hernandez,3/10/2022,HR,Analyst,Non-Binary,50,Middle Age,128939,4849,3,On Leave,2,Remote,Master,Single
+196,Elizabeth Moore,5/1/2020,Sales,Coordinator,Male,56,Experienced,45548,13360,2.1,Terminated,4,Headquarters,Associate,Married
+197,Thomas Davis,6/13/2020,IT,Analyst,Female,61,Experienced,46329,13768,3.6,Terminated,6,Branch A,High School,Married
+198,Barbara Brown,3/11/2017,Marketing,Coordinator,Non-Binary,35,Middle Age,79488,14032,3.8,Terminated,8,Headquarters,High School,Married
+199,Robert Lopez,1/9/2022,Sales,Manager,Female,56,Experienced,55458,5195,2.2,Terminated,1,Branch B,Bachelor,Divorced
+200,David Moore,9/23/2018,Operations,Coordinator,Female,41,Middle Age,55436,19939,3.2,Terminated,3,Remote,Master,Widowed
+201,Michael Martinez,11/8/2015,HR,Coordinator,Male,34,Middle Age,71257,19689,1.7,Active,6,Branch B,High School,Married
+202,Jennifer Jackson,2/2/2023,Marketing,Engineer,Non-Binary,59,Experienced,30910,8619,4,Active,0,Remote,Bachelor,Widowed
+203,Patricia Gonzalez,6/9/2015,HR,Coordinator,Male,29,Young,146633,10280,3.2,Active,1,Branch A,PhD,Widowed
+204,James Jones,9/24/2017,Operations,Coordinator,Male,64,Experienced,127695,3642,4.4,On Leave,8,Remote,Bachelor,Widowed
+205,Elizabeth Wilson,12/25/2017,HR,Manager,Non-Binary,41,Middle Age,104501,10369,1.7,Terminated,9,Headquarters,Bachelor,Divorced
+206,Joseph Jones,1/8/2018,IT,Engineer,Non-Binary,54,Experienced,103555,15296,2.5,On Leave,6,Headquarters,Bachelor,Divorced
+207,Karen Garcia,9/22/2015,Marketing,Specialist,Female,47,Middle Age,63390,16438,3.2,Terminated,9,Branch A,Associate,Divorced
+208,Sarah Thomas,10/8/2017,Marketing,Manager,Non-Binary,60,Experienced,121213,16674,2.9,Active,6,Remote,Bachelor,Divorced
+209,Elizabeth Martinez,9/30/2015,Operations,Manager,Female,42,Middle Age,142603,5757,2.8,On Leave,5,Branch A,Bachelor,Married
+210,William Martinez,2/8/2019,IT,Specialist,Female,63,Experienced,117845,3994,4,Active,2,Headquarters,Associate,Single
+211,Barbara Garcia,11/4/2023,Sales,Coordinator,Female,64,Experienced,52442,16226,3.5,Terminated,9,Branch B,Associate,Single
+212,David Johnson,6/4/2019,HR,Analyst,Non-Binary,62,Experienced,33597,2271,1.2,Terminated,2,Branch A,PhD,Single
+213,Michael Wilson,12/2/2015,Finance,Engineer,Male,30,Young,136050,2813,4.9,Terminated,1,Branch B,Master,Married
+214,Robert Rodriguez,4/16/2017,HR,Analyst,Female,45,Middle Age,132437,19845,1.5,Active,5,Branch B,High School,Single
+215,Linda Jones,11/24/2017,HR,Specialist,Male,58,Experienced,136204,9475,3.4,Terminated,3,Remote,High School,Married
+216,Jessica Moore,2/18/2017,Sales,Manager,Male,62,Experienced,61105,5396,4.5,Active,4,Branch A,Bachelor,Married
+217,Jessica Rodriguez,10/12/2015,HR,Manager,Non-Binary,38,Middle Age,146963,10283,4.7,On Leave,2,Branch B,PhD,Married
+218,Linda Wilson,10/14/2017,IT,Engineer,Male,45,Middle Age,101451,14318,4.7,Terminated,5,Branch B,Bachelor,Single
+219,John Taylor,3/2/2015,IT,Manager,Male,42,Middle Age,30866,18200,1,Terminated,2,Remote,High School,Widowed
+220,Susan Davis,4/16/2018,Marketing,Manager,Non-Binary,60,Experienced,131609,1082,3.2,Terminated,7,Remote,Associate,Single
+221,Sarah Lopez,11/13/2015,Operations,Engineer,Female,62,Experienced,101568,2920,1.7,On Leave,8,Headquarters,Master,Single
+222,Christopher Wilson,2/9/2019,Finance,Engineer,Male,60,Experienced,64753,8817,4,Terminated,3,Branch B,PhD,Divorced
+223,Mary Martin,9/24/2018,HR,Specialist,Non-Binary,34,Middle Age,60673,12683,3.3,Active,8,Headquarters,Associate,Married
+224,Charles Smith,1/29/2023,HR,Manager,Male,32,Middle Age,127524,12336,4.6,Active,6,Branch B,Master,Widowed
+225,William Taylor,10/7/2022,Sales,Manager,Male,40,Middle Age,147338,16596,2.5,Terminated,2,Headquarters,PhD,Divorced
+226,Mary Smith,8/4/2017,Operations,Specialist,Female,32,Middle Age,123514,3093,1.8,Terminated,6,Remote,PhD,Widowed
+227,James Jones,2/19/2019,IT,Coordinator,Male,34,Middle Age,83451,13905,3,On Leave,0,Branch A,High School,Widowed
+228,Elizabeth Smith,10/5/2023,Finance,Coordinator,Non-Binary,22,Young,73724,9367,2,On Leave,2,Remote,Associate,Married
+229,James Miller,10/6/2020,Marketing,Coordinator,Male,61,Experienced,37688,6285,4.9,On Leave,5,Headquarters,PhD,Single
+230,Charles Smith,10/18/2021,IT,Specialist,Female,40,Middle Age,82517,11896,1.8,Terminated,3,Headquarters,PhD,Married
+231,John Wilson,2/10/2020,Operations,Manager,Female,33,Middle Age,47208,5937,2.3,On Leave,6,Branch A,Master,Married
+232,Patricia Johnson,9/24/2023,Marketing,Specialist,Non-Binary,29,Young,76756,17753,3.1,On Leave,2,Branch B,High School,Divorced
+233,Joseph Thomas,3/22/2023,Sales,Specialist,Female,29,Young,57614,19202,1.6,Active,0,Headquarters,Bachelor,Married
+234,Christopher Miller,4/9/2023,Sales,Coordinator,Male,33,Middle Age,55831,19485,4,On Leave,8,Headquarters,High School,Single
+235,Robert Garcia,11/7/2018,HR,Analyst,Female,54,Experienced,120503,13977,4.2,Active,5,Headquarters,Bachelor,Widowed
+236,Charles Williams,12/27/2022,Operations,Manager,Non-Binary,47,Middle Age,77014,19163,1.7,Active,7,Branch A,Associate,Married
+237,Sarah Smith,9/1/2016,Finance,Coordinator,Female,60,Experienced,121084,8674,1.1,On Leave,2,Remote,Associate,Widowed
+238,Jessica Brown,3/1/2022,Marketing,Analyst,Female,49,Middle Age,95564,18748,4.1,Active,7,Headquarters,PhD,Married
+239,Barbara Williams,9/13/2020,IT,Analyst,Female,26,Young,120425,4676,2.1,Terminated,1,Branch A,Associate,Widowed
+240,Susan Davis,8/28/2020,Operations,Engineer,Non-Binary,29,Young,70437,3426,3.1,Terminated,3,Headquarters,PhD,Married
+241,Elizabeth Hernandez,4/14/2022,Operations,Manager,Female,46,Middle Age,144878,3962,2.1,On Leave,2,Branch B,High School,Divorced
+242,William Lopez,6/10/2015,Sales,Analyst,Female,48,Middle Age,112782,1859,1.4,Terminated,9,Branch A,Associate,Widowed
+243,Joseph Garcia,7/16/2018,HR,Coordinator,Male,44,Middle Age,52906,13048,2,Active,0,Headquarters,High School,Married
+244,Barbara Davis,7/1/2018,HR,Engineer,Non-Binary,51,Experienced,75464,5138,2.8,Terminated,6,Branch A,High School,Married
+245,Christopher Wilson,8/12/2023,Marketing,Manager,Female,44,Middle Age,138452,3424,2,On Leave,9,Headquarters,Associate,Divorced
+246,Susan Anderson,12/7/2015,Sales,Specialist,Non-Binary,41,Middle Age,36016,11409,3.2,On Leave,1,Remote,High School,Divorced
+247,John Lopez,5/12/2021,Operations,Coordinator,Female,39,Middle Age,93185,5017,4,Active,3,Headquarters,Associate,Divorced
+248,Thomas Smith,1/11/2018,Finance,Analyst,Female,39,Middle Age,62891,11451,4.3,On Leave,8,Branch A,Associate,Widowed
+249,Elizabeth Lopez,8/18/2020,Sales,Analyst,Female,23,Young,75021,11278,4.6,Terminated,5,Branch B,Associate,Widowed
+250,Jennifer Garcia,5/20/2017,Marketing,Coordinator,Male,25,Young,37712,11996,4.1,On Leave,7,Branch B,Bachelor,Divorced
+251,Joseph Johnson,11/13/2020,Marketing,Analyst,Male,51,Experienced,63393,2134,1.8,Active,1,Branch B,High School,Single
+252,Robert Martin,9/23/2016,Sales,Engineer,Male,54,Experienced,112134,6119,3.1,On Leave,6,Headquarters,Master,Single
+253,Jennifer Jackson,10/18/2021,Marketing,Manager,Non-Binary,57,Experienced,45014,6694,4.9,Terminated,5,Remote,Associate,Married
+254,James Lopez,4/29/2020,Sales,Engineer,Non-Binary,39,Middle Age,71037,5164,3.5,Active,8,Headquarters,High School,Single
+255,Mary Hernandez,11/29/2015,IT,Analyst,Male,58,Experienced,143077,19730,4.2,Terminated,6,Branch B,PhD,Married
+256,Robert Smith,6/20/2016,Sales,Specialist,Non-Binary,40,Middle Age,89507,6039,2.7,Active,0,Branch A,Associate,Widowed
+257,Sarah Davis,4/4/2023,Sales,Manager,Female,49,Middle Age,54456,15631,2.3,On Leave,7,Branch B,Associate,Widowed
+258,Jennifer Taylor,9/11/2018,Marketing,Manager,Female,61,Experienced,146104,11442,4.8,Active,9,Branch A,Master,Single
+259,Linda Davis,3/20/2017,Marketing,Coordinator,Female,41,Middle Age,50823,9252,1.8,Active,2,Remote,Bachelor,Widowed
+260,Christopher Taylor,10/3/2015,HR,Coordinator,Male,54,Experienced,30335,18721,2.5,On Leave,1,Branch A,Bachelor,Divorced
+261,Michael Smith,1/29/2021,HR,Specialist,Non-Binary,33,Middle Age,107307,18568,2.4,Terminated,2,Headquarters,Associate,Divorced
+262,James Johnson,7/1/2020,IT,Manager,Male,36,Middle Age,96342,2551,3,On Leave,5,Headquarters,High School,Single
+263,William Jones,5/19/2020,HR,Specialist,Non-Binary,62,Experienced,56538,13625,3.7,Active,2,Headquarters,PhD,Single
+264,Elizabeth Anderson,6/13/2019,Sales,Coordinator,Female,60,Experienced,82991,2629,2.6,On Leave,9,Branch A,PhD,Married
+265,Barbara Johnson,1/22/2020,Marketing,Coordinator,Male,23,Young,30688,18910,1.2,Active,4,Headquarters,High School,Widowed
+266,Christopher Gonzalez,8/11/2022,HR,Manager,Non-Binary,50,Middle Age,72262,2361,4.1,On Leave,5,Headquarters,Associate,Married
+267,James Davis,6/16/2017,HR,Engineer,Non-Binary,62,Experienced,135525,5370,3.9,On Leave,7,Headquarters,PhD,Married
+268,Joseph Lopez,6/21/2016,IT,Analyst,Female,31,Middle Age,117134,6283,3.2,Terminated,6,Remote,Bachelor,Divorced
+269,Susan Brown,4/12/2017,Operations,Coordinator,Male,23,Young,129049,8610,2.3,Active,7,Branch A,High School,Divorced
+270,Jessica Rodriguez,1/22/2020,IT,Coordinator,Male,32,Middle Age,73779,11558,2.2,Terminated,2,Branch A,Master,Divorced
+271,Michael Gonzalez,9/13/2021,Sales,Engineer,Male,34,Middle Age,111486,15924,3.4,Active,3,Branch B,Associate,Divorced
+272,Susan Davis,10/16/2018,Marketing,Engineer,Female,31,Middle Age,122205,15839,2.6,On Leave,5,Branch A,High School,Married
+273,Elizabeth Wilson,6/8/2017,IT,Specialist,Male,35,Middle Age,148222,12949,3.3,Active,6,Remote,PhD,Divorced
+274,Robert Rodriguez,5/6/2018,HR,Specialist,Female,39,Middle Age,128992,11626,2.1,Terminated,8,Branch A,Associate,Widowed
+275,Jessica Anderson,3/2/2015,Marketing,Analyst,Female,30,Young,144857,2993,3.2,Terminated,0,Remote,Bachelor,Divorced
+276,Linda Brown,2/11/2021,Marketing,Analyst,Female,60,Experienced,93565,1869,1.9,Terminated,7,Remote,Associate,Divorced
+277,Joseph Gonzalez,8/28/2020,HR,Manager,Non-Binary,49,Middle Age,126463,2014,1.6,Active,7,Branch A,Associate,Divorced
+278,Karen Martin,8/6/2023,IT,Specialist,Male,24,Young,105803,11103,1,Terminated,5,Branch B,Bachelor,Single
+279,Susan Gonzalez,9/7/2021,HR,Coordinator,Male,41,Middle Age,31302,17986,1.6,Terminated,3,Headquarters,Bachelor,Widowed
+280,Karen Miller,9/17/2023,Operations,Specialist,Female,27,Young,149500,13013,4.6,Terminated,2,Headquarters,Associate,Widowed
+281,Thomas Martin,12/23/2017,Marketing,Coordinator,Female,48,Middle Age,91934,1690,2.1,On Leave,2,Branch A,Bachelor,Married
+282,Jessica Lopez,3/14/2021,Finance,Engineer,Male,23,Young,133468,17873,1.8,On Leave,5,Branch A,High School,Married
+283,Christopher Smith,2/18/2022,Finance,Specialist,Female,50,Middle Age,93301,11748,3,Active,7,Remote,Bachelor,Divorced
+284,Karen Gonzalez,3/18/2017,Sales,Engineer,Male,59,Experienced,73347,9024,4.6,Active,6,Branch A,Bachelor,Single
+285,Elizabeth Taylor,8/20/2023,HR,Analyst,Non-Binary,24,Young,49687,17678,4.9,Terminated,0,Remote,Associate,Married
+286,John Brown,9/9/2019,HR,Analyst,Female,37,Middle Age,140924,6488,1.3,On Leave,5,Branch B,High School,Married
+287,Christopher Gonzalez,4/7/2018,Sales,Manager,Male,51,Experienced,141789,12035,4.8,Terminated,6,Branch A,Master,Divorced
+288,Jennifer Jackson,11/21/2019,Sales,Specialist,Female,61,Experienced,116035,19257,1.9,Terminated,6,Headquarters,Master,Divorced
+289,Linda Rodriguez,1/14/2016,Sales,Engineer,Male,23,Young,127629,13855,1.6,On Leave,8,Headquarters,PhD,Married
+290,Mary Garcia,6/6/2016,Marketing,Coordinator,Male,38,Middle Age,113942,3817,4,On Leave,9,Branch A,Bachelor,Married
+291,Karen Jones,7/3/2020,Operations,Analyst,Female,62,Experienced,59690,5458,1.8,On Leave,4,Remote,Bachelor,Widowed
+292,Linda Gonzalez,1/10/2023,HR,Analyst,Non-Binary,33,Middle Age,135821,6307,2.7,Active,0,Headquarters,High School,Single
+293,Barbara Jackson,4/28/2018,Marketing,Coordinator,Male,56,Experienced,118367,9933,4.2,Active,1,Remote,Master,Widowed
+294,John Johnson,7/28/2016,Sales,Engineer,Male,64,Experienced,121586,19425,2.2,Terminated,3,Branch A,PhD,Married
+295,Robert Davis,8/25/2023,HR,Engineer,Male,22,Young,73564,18063,4.1,Active,4,Branch A,High School,Widowed
+296,Jessica Jones,12/4/2020,Marketing,Specialist,Non-Binary,36,Middle Age,127773,11659,4,On Leave,8,Headquarters,Bachelor,Widowed
+297,Sarah Williams,2/3/2021,Operations,Specialist,Non-Binary,47,Middle Age,55816,6738,2.9,On Leave,0,Branch A,Master,Married
+298,Michael Wilson,4/13/2021,Marketing,Manager,Female,58,Experienced,136339,6668,4.8,Active,2,Branch B,PhD,Divorced
+299,Mary Gonzalez,6/11/2020,Operations,Analyst,Non-Binary,42,Middle Age,67513,15427,5,Terminated,4,Branch B,Associate,Married
+300,David Thomas,12/17/2016,Sales,Specialist,Female,52,Experienced,141817,8697,2.3,Terminated,2,Headquarters,Master,Divorced
+301,Christopher Martin,1/21/2016,Operations,Engineer,Female,46,Middle Age,138592,17446,4.8,Active,3,Branch B,PhD,Married
+302,Patricia Thomas,3/10/2019,HR,Coordinator,Non-Binary,44,Middle Age,122418,8829,4.3,Terminated,2,Remote,High School,Married
+303,Sarah Rodriguez,10/1/2021,Sales,Engineer,Female,45,Middle Age,53718,11751,4.6,Terminated,3,Headquarters,Associate,Married
+304,Sarah Rodriguez,10/20/2021,HR,Analyst,Non-Binary,59,Experienced,126249,14450,2.5,Terminated,0,Headquarters,PhD,Single
+305,Patricia Wilson,5/29/2015,Finance,Engineer,Female,49,Middle Age,46477,8352,4.9,On Leave,7,Remote,PhD,Divorced
+306,Jessica Hernandez,7/20/2016,IT,Manager,Non-Binary,42,Middle Age,52886,14516,1.9,On Leave,3,Branch B,Bachelor,Single
+307,Sarah Garcia,5/26/2021,Operations,Analyst,Non-Binary,64,Experienced,116554,9326,1.3,Active,6,Branch B,Master,Married
+308,David Lopez,3/26/2016,IT,Coordinator,Female,39,Middle Age,123105,4644,4.2,On Leave,1,Branch B,Bachelor,Widowed
+309,Susan Smith,6/22/2021,IT,Manager,Male,57,Experienced,59906,9003,3.3,Terminated,1,Headquarters,Associate,Single
+310,Sarah Wilson,11/8/2021,Operations,Analyst,Female,56,Experienced,141090,4278,1.1,On Leave,5,Headquarters,PhD,Divorced
+311,Thomas Garcia,11/5/2017,Sales,Coordinator,Non-Binary,30,Young,78064,8296,4,Active,1,Branch B,Bachelor,Married
+312,Sarah Martinez,12/1/2018,Finance,Manager,Male,59,Experienced,147838,4074,1.4,On Leave,5,Branch A,Master,Single
+313,John Garcia,3/22/2018,HR,Manager,Female,51,Experienced,121913,14261,1.3,Terminated,1,Branch B,Associate,Widowed
+314,Christopher Lopez,10/19/2018,Marketing,Analyst,Female,55,Experienced,67527,12173,1.1,Terminated,3,Remote,High School,Single
+315,Charles Davis,4/5/2021,HR,Specialist,Female,53,Experienced,107846,9312,2.1,Active,6,Headquarters,Bachelor,Divorced
+316,William Davis,9/25/2015,Marketing,Manager,Male,24,Young,126149,2637,3.8,On Leave,7,Remote,Associate,Single
+317,Linda Jackson,2/7/2018,HR,Manager,Non-Binary,24,Young,99259,14652,2,On Leave,2,Remote,High School,Widowed
+318,Robert Smith,4/20/2019,Operations,Coordinator,Female,49,Middle Age,141489,6103,4,On Leave,8,Headquarters,Bachelor,Widowed
+319,Sarah Jones,5/4/2022,Finance,Engineer,Female,36,Middle Age,128067,18028,2.6,Terminated,1,Branch A,Associate,Divorced
+320,Jennifer Smith,7/24/2018,Marketing,Analyst,Female,62,Experienced,56409,3032,4.7,Active,7,Branch B,Associate,Widowed
+321,Joseph Anderson,3/28/2016,Sales,Analyst,Female,44,Middle Age,121644,3761,2.4,On Leave,7,Remote,Bachelor,Married
+322,James Rodriguez,4/14/2021,HR,Specialist,Female,61,Experienced,117931,16195,3.8,Terminated,3,Headquarters,Associate,Widowed
+323,Robert Rodriguez,7/27/2017,HR,Specialist,Non-Binary,32,Middle Age,76133,19452,1.7,Terminated,0,Remote,PhD,Married
+324,Barbara Garcia,2/13/2023,Marketing,Analyst,Non-Binary,53,Experienced,98489,17625,1.7,Terminated,0,Branch B,Bachelor,Single
+325,Jessica Gonzalez,3/19/2020,Sales,Specialist,Female,57,Experienced,89103,3668,3.8,On Leave,1,Branch A,Associate,Married
+326,Jessica Brown,11/13/2021,Sales,Coordinator,Male,54,Experienced,44506,15638,3,On Leave,8,Branch A,High School,Married
+327,Patricia Hernandez,8/23/2017,Operations,Analyst,Non-Binary,45,Middle Age,98456,16954,2.2,On Leave,1,Branch A,High School,Single
+328,Christopher Thomas,10/9/2017,Operations,Specialist,Male,60,Experienced,122747,18186,3.7,On Leave,1,Headquarters,PhD,Widowed
+329,Thomas Miller,1/18/2022,Operations,Analyst,Non-Binary,55,Experienced,84324,13356,4.7,On Leave,5,Headquarters,Bachelor,Married
+330,Patricia Rodriguez,3/26/2023,Operations,Engineer,Female,49,Middle Age,136538,1195,2.8,On Leave,6,Branch A,Associate,Widowed
+331,Linda Thomas,8/8/2021,Operations,Manager,Non-Binary,58,Experienced,107501,3187,2.4,On Leave,6,Branch B,Associate,Single
+332,David Jones,9/18/2016,Operations,Analyst,Female,28,Young,120092,12707,4.9,On Leave,8,Branch B,High School,Divorced
+333,Michael Hernandez,7/20/2023,Finance,Manager,Non-Binary,25,Young,72303,3330,3,On Leave,5,Headquarters,PhD,Widowed
+334,Jessica Lopez,6/3/2019,Sales,Specialist,Female,58,Experienced,44386,4606,2.3,Terminated,7,Branch A,High School,Widowed
+335,Robert Johnson,4/6/2016,Operations,Manager,Female,22,Young,122246,1060,1.6,On Leave,5,Branch B,High School,Divorced
+336,James Martinez,5/26/2022,Sales,Analyst,Female,22,Young,70085,15387,4.6,Active,1,Branch B,PhD,Divorced
+337,Linda Martinez,12/11/2019,Sales,Engineer,Female,41,Middle Age,73765,4927,4.7,Terminated,0,Branch B,Bachelor,Single
+338,William Thomas,1/6/2023,IT,Specialist,Male,40,Middle Age,103897,7296,1,On Leave,4,Headquarters,Associate,Widowed
+339,Sarah Lopez,2/8/2020,Finance,Analyst,Female,50,Middle Age,51458,14622,2.9,Active,8,Branch A,Bachelor,Widowed
+340,Mary Johnson,6/23/2016,Operations,Specialist,Male,31,Middle Age,134579,15125,3.8,On Leave,7,Remote,Master,Single
+341,Thomas Taylor,4/20/2015,HR,Coordinator,Male,39,Middle Age,144591,3591,1.8,Active,3,Branch A,Master,Widowed
+342,Michael Miller,11/11/2015,Marketing,Manager,Female,49,Middle Age,75966,13127,1.3,Active,4,Branch A,Master,Married
+343,Sarah Jackson,2/3/2023,HR,Coordinator,Male,56,Experienced,146010,16748,4.9,Active,4,Headquarters,PhD,Married
+344,Barbara Brown,4/28/2016,Finance,Analyst,Non-Binary,64,Experienced,122072,7121,2.4,Active,5,Branch B,High School,Married
+345,Thomas Thomas,5/13/2019,Marketing,Engineer,Female,52,Experienced,109862,2200,4.2,Terminated,2,Branch B,Bachelor,Widowed
+346,Elizabeth Moore,6/9/2017,Finance,Specialist,Male,48,Middle Age,148360,16721,2.1,Terminated,4,Headquarters,Associate,Married
+347,Linda Lopez,5/29/2015,Sales,Manager,Female,32,Middle Age,107950,12087,4.2,Active,1,Headquarters,Master,Married
+348,Elizabeth Miller,2/22/2015,Marketing,Specialist,Female,59,Experienced,109167,7972,3.8,On Leave,9,Headquarters,Bachelor,Single
+349,William Hernandez,2/14/2021,Sales,Analyst,Female,26,Young,59149,1136,2.4,Active,0,Headquarters,Master,Single
+350,Thomas Gonzalez,2/8/2021,HR,Specialist,Male,29,Young,74355,18413,1.1,Terminated,0,Headquarters,Master,Divorced
+351,Linda Smith,10/9/2022,HR,Manager,Non-Binary,55,Experienced,90270,16346,2.3,On Leave,9,Remote,Associate,Divorced
+352,David Davis,9/4/2017,Marketing,Analyst,Non-Binary,33,Middle Age,126301,19978,2.7,Terminated,6,Branch A,PhD,Divorced
+353,Sarah Taylor,4/2/2020,Marketing,Specialist,Male,59,Experienced,132804,1661,2.2,Terminated,1,Branch A,High School,Divorced
+354,Barbara Williams,10/28/2020,Operations,Engineer,Female,22,Young,128302,3472,4.9,On Leave,3,Branch A,PhD,Single
+355,Thomas Jones,3/20/2021,Finance,Analyst,Male,52,Experienced,134638,1086,2.5,Active,4,Branch B,Bachelor,Single
+356,Karen Jackson,7/27/2017,Operations,Analyst,Male,25,Young,112134,11704,1.2,Active,6,Remote,PhD,Single
+357,Karen Anderson,3/19/2017,Finance,Engineer,Male,26,Young,126327,7219,1.6,Active,1,Branch A,Bachelor,Married
+358,David Lopez,12/10/2022,Operations,Coordinator,Female,51,Experienced,41606,17322,2.5,Active,5,Branch B,Bachelor,Married
+359,Sarah Martin,2/5/2022,Sales,Manager,Male,45,Middle Age,46263,15749,4.9,On Leave,0,Remote,High School,Divorced
+360,Karen Gonzalez,10/29/2018,Marketing,Coordinator,Female,24,Young,131430,7968,2.2,On Leave,6,Remote,Associate,Married
+361,Karen Jones,1/20/2021,HR,Specialist,Male,32,Middle Age,79050,14596,2.5,On Leave,8,Branch B,High School,Widowed
+362,Mary Smith,4/15/2022,Finance,Engineer,Non-Binary,25,Young,75767,2700,2.7,Terminated,4,Remote,PhD,Single
+363,Jennifer Smith,5/9/2015,Finance,Coordinator,Male,47,Middle Age,37440,3700,4,On Leave,4,Branch B,Bachelor,Divorced
+364,Joseph Johnson,5/10/2016,HR,Analyst,Male,48,Middle Age,145170,12821,4.7,Active,3,Branch A,Master,Divorced
+365,Robert Wilson,9/16/2017,Operations,Specialist,Non-Binary,64,Experienced,60144,19031,3.6,Terminated,2,Branch B,Master,Widowed
+366,Charles Gonzalez,7/24/2022,Finance,Specialist,Female,48,Middle Age,30397,6520,3.5,Active,8,Remote,Bachelor,Married
+367,Joseph Lopez,4/1/2020,Sales,Coordinator,Female,63,Experienced,95149,12510,2.2,Active,4,Branch A,High School,Divorced
+368,Jessica Williams,9/1/2015,Marketing,Coordinator,Male,27,Young,137836,4687,2.1,On Leave,7,Branch A,Associate,Married
+369,Karen Jackson,7/30/2020,HR,Engineer,Non-Binary,36,Middle Age,100534,17980,2.1,On Leave,8,Headquarters,High School,Married
+370,Karen Gonzalez,2/15/2016,Marketing,Manager,Female,51,Experienced,39657,9837,4.5,Active,4,Headquarters,Bachelor,Widowed
+371,Patricia Smith,1/2/2015,Finance,Coordinator,Male,63,Experienced,74935,15955,4,Active,9,Remote,Bachelor,Divorced
+372,Joseph Thomas,8/4/2019,Finance,Coordinator,Non-Binary,58,Experienced,33557,12281,1.3,Terminated,8,Branch B,Associate,Married
+373,Sarah Lopez,2/14/2021,HR,Analyst,Female,58,Experienced,78684,14917,3,On Leave,1,Branch B,PhD,Married
+374,Jessica Jones,9/28/2020,Sales,Specialist,Female,63,Experienced,114974,5757,4.1,Terminated,8,Remote,PhD,Widowed
+375,William Williams,5/16/2020,IT,Manager,Non-Binary,58,Experienced,39892,14045,1.2,Terminated,3,Branch A,Associate,Widowed
+376,William Thomas,6/8/2015,HR,Analyst,Non-Binary,56,Experienced,148855,9912,3,Terminated,5,Remote,PhD,Married
+377,Jennifer Gonzalez,7/23/2020,IT,Engineer,Non-Binary,44,Middle Age,125681,5733,1.2,Active,5,Remote,Master,Widowed
+378,Karen Smith,5/20/2015,Operations,Engineer,Non-Binary,27,Young,63304,8081,2.3,Terminated,5,Branch A,PhD,Married
+379,James Brown,12/10/2015,IT,Coordinator,Male,25,Young,101295,9690,1.1,Terminated,1,Branch B,PhD,Divorced
+380,Thomas Martin,6/30/2023,Sales,Coordinator,Non-Binary,39,Middle Age,99004,2673,1.5,Active,6,Remote,PhD,Single
+381,David Hernandez,11/10/2015,Operations,Engineer,Female,30,Young,75566,15318,3.5,On Leave,5,Branch B,Master,Widowed
+382,William Garcia,6/5/2016,IT,Coordinator,Female,50,Middle Age,88862,12171,1.6,On Leave,0,Remote,PhD,Single
+383,David Martin,4/19/2015,Operations,Manager,Male,34,Middle Age,30744,14545,2.9,Terminated,1,Branch A,Master,Married
+384,Karen Davis,8/11/2023,IT,Coordinator,Female,38,Middle Age,73528,12803,2.8,Active,6,Branch A,Associate,Married
+385,William Smith,2/28/2021,Sales,Specialist,Female,53,Experienced,55718,3294,3.6,On Leave,0,Headquarters,High School,Married
+386,Elizabeth Jackson,2/4/2022,IT,Coordinator,Non-Binary,43,Middle Age,32522,4630,2.3,Terminated,0,Branch A,Associate,Single
+387,Barbara Johnson,5/6/2023,IT,Analyst,Female,25,Young,49638,16093,1.2,Terminated,0,Headquarters,High School,Married
+388,Mary Rodriguez,6/23/2015,IT,Manager,Male,26,Young,110579,17530,5,Active,7,Remote,Associate,Widowed
+389,Linda Garcia,4/9/2022,HR,Analyst,Non-Binary,58,Experienced,88411,15453,4.9,Terminated,3,Branch B,High School,Divorced
+390,Patricia Jackson,3/7/2015,HR,Analyst,Non-Binary,62,Experienced,119634,13174,1.5,On Leave,3,Branch A,High School,Divorced
+391,Christopher Lopez,6/29/2019,HR,Specialist,Male,34,Middle Age,139314,4453,3.5,Active,1,Branch A,Bachelor,Widowed
+392,Karen Jackson,7/27/2017,Sales,Manager,Non-Binary,55,Experienced,87618,5507,3.8,On Leave,0,Branch A,High School,Divorced
+393,James Wilson,9/19/2017,Operations,Manager,Non-Binary,43,Middle Age,45304,11602,3.5,On Leave,9,Remote,High School,Single
+394,Elizabeth Brown,5/7/2017,Finance,Manager,Male,44,Middle Age,31903,6628,4.4,On Leave,8,Headquarters,Bachelor,Married
+395,Barbara Moore,6/16/2015,IT,Manager,Non-Binary,24,Young,68246,9328,4.6,Terminated,6,Remote,PhD,Married
+396,Joseph Taylor,3/14/2016,IT,Manager,Male,63,Experienced,100829,16534,4.5,Terminated,3,Branch B,PhD,Married
+397,Patricia Williams,2/20/2021,Sales,Specialist,Male,55,Experienced,91317,4552,2.7,On Leave,5,Remote,Bachelor,Single
+398,Christopher Jackson,11/6/2020,IT,Coordinator,Female,53,Experienced,142989,17402,2.9,On Leave,1,Branch B,Master,Single
+399,William Garcia,11/5/2017,HR,Analyst,Female,42,Middle Age,71023,3242,4.5,Active,6,Branch A,High School,Single
+400,Linda Anderson,10/8/2023,Finance,Manager,Non-Binary,42,Middle Age,122936,15665,1.6,Active,1,Branch B,High School,Widowed
+401,Thomas Williams,9/30/2018,Marketing,Coordinator,Non-Binary,32,Middle Age,146291,6097,1.1,Terminated,9,Branch B,Bachelor,Single
+402,David Gonzalez,10/14/2023,IT,Coordinator,Male,60,Experienced,58186,9640,1.5,Terminated,7,Headquarters,Bachelor,Divorced
+403,Jessica Miller,6/6/2018,HR,Analyst,Non-Binary,25,Young,130692,2948,4.9,Active,7,Branch B,Master,Widowed
+404,Sarah Garcia,5/20/2021,Marketing,Specialist,Male,22,Young,123438,6618,1.5,On Leave,0,Branch B,PhD,Widowed
+405,Robert Brown,8/4/2017,Finance,Engineer,Male,49,Middle Age,110350,5236,3.6,Terminated,7,Remote,Associate,Widowed
+406,Patricia Thomas,10/14/2020,Marketing,Engineer,Non-Binary,45,Middle Age,93163,2920,4.4,On Leave,1,Branch A,PhD,Single
+407,Thomas Garcia,1/8/2018,HR,Coordinator,Male,56,Experienced,52043,12169,4.9,Active,5,Remote,High School,Widowed
+408,Karen Jones,2/12/2021,Operations,Analyst,Female,34,Middle Age,39817,5188,3.6,Terminated,0,Remote,Bachelor,Single
+409,Michael Hernandez,6/9/2021,Operations,Engineer,Non-Binary,55,Experienced,110163,13207,3.3,Terminated,4,Branch A,Master,Single
+410,Charles Jones,7/3/2019,Marketing,Coordinator,Female,32,Middle Age,50662,1238,4.6,Active,6,Branch A,PhD,Widowed
+411,Christopher Brown,2/20/2020,Sales,Specialist,Non-Binary,57,Experienced,46794,1204,2.1,Terminated,9,Branch B,Master,Married
+412,Charles Hernandez,12/25/2018,Marketing,Engineer,Male,38,Middle Age,107286,11799,2.4,Active,0,Branch B,PhD,Married
+413,Karen Martinez,12/16/2016,IT,Coordinator,Non-Binary,56,Experienced,31663,6552,1.4,Terminated,1,Headquarters,High School,Widowed
+414,Barbara Anderson,4/11/2021,IT,Coordinator,Female,39,Middle Age,60984,5927,1.2,Active,6,Remote,Associate,Married
+415,David Garcia,1/18/2020,Operations,Manager,Male,61,Experienced,81077,12164,3.7,Terminated,5,Branch A,Master,Divorced
+416,Sarah Rodriguez,2/21/2019,Sales,Specialist,Non-Binary,43,Middle Age,88110,5390,1.5,On Leave,2,Branch B,Master,Divorced
+417,Linda Garcia,2/20/2019,HR,Manager,Non-Binary,45,Middle Age,31251,16641,2.4,On Leave,9,Branch A,Associate,Single
+418,Linda Wilson,5/7/2022,IT,Analyst,Non-Binary,40,Middle Age,120689,7160,3.6,On Leave,1,Branch B,Master,Married
+419,John Brown,12/6/2020,Operations,Manager,Female,58,Experienced,106470,16810,2.8,Terminated,9,Headquarters,Master,Divorced
+420,Barbara Lopez,1/1/2021,Finance,Manager,Female,60,Experienced,90056,6126,3.4,Terminated,3,Headquarters,PhD,Widowed
+421,Karen Jones,9/11/2023,Operations,Engineer,Non-Binary,42,Middle Age,61994,1816,3.9,On Leave,2,Branch A,PhD,Married
+422,Charles Jackson,6/26/2018,IT,Coordinator,Male,29,Young,131870,14414,3,On Leave,6,Headquarters,Associate,Divorced
+423,William Miller,5/23/2019,IT,Specialist,Male,49,Middle Age,148030,1192,2.5,Active,7,Branch A,High School,Divorced
+424,Charles Taylor,8/21/2021,Operations,Manager,Female,26,Young,51417,19160,3.8,Active,1,Branch B,Master,Widowed
+425,Karen Rodriguez,11/5/2018,HR,Specialist,Male,38,Middle Age,112753,4645,2.4,Active,9,Remote,High School,Single
+426,John Williams,5/3/2022,Marketing,Manager,Female,58,Experienced,61137,13816,1.6,On Leave,6,Headquarters,Associate,Widowed
+427,Karen Anderson,6/2/2015,IT,Analyst,Non-Binary,57,Experienced,99763,7314,2.8,On Leave,7,Branch B,Associate,Single
+428,Thomas Williams,9/7/2023,Operations,Manager,Female,40,Middle Age,117659,19172,3.9,On Leave,5,Remote,PhD,Divorced
+429,Karen Hernandez,3/18/2018,Operations,Engineer,Female,48,Middle Age,76863,8374,2.4,Active,5,Remote,Master,Single
+430,Charles Wilson,12/29/2015,Sales,Coordinator,Non-Binary,55,Experienced,69389,4700,4.6,Terminated,9,Remote,Bachelor,Divorced
+431,Mary Jackson,2/14/2023,Marketing,Analyst,Male,32,Middle Age,134429,11655,3.7,On Leave,0,Branch B,Associate,Divorced
+432,Joseph Moore,10/14/2018,Finance,Manager,Female,33,Middle Age,141313,16129,4.2,Terminated,3,Branch B,Master,Married
+433,Susan Garcia,9/29/2020,HR,Specialist,Female,42,Middle Age,118865,10359,3.2,Terminated,0,Branch A,High School,Single
+434,James Jackson,3/12/2022,Finance,Analyst,Non-Binary,32,Middle Age,36797,4893,1.7,Terminated,3,Remote,PhD,Single
+435,Mary Thomas,9/15/2023,Marketing,Analyst,Male,60,Experienced,69781,7811,2.8,Active,1,Remote,High School,Single
+436,Barbara Hernandez,1/11/2021,Marketing,Manager,Female,49,Middle Age,62183,10288,2,Terminated,4,Remote,Associate,Widowed
+437,Joseph Miller,11/9/2021,Marketing,Analyst,Non-Binary,26,Young,100885,1504,4.9,On Leave,9,Branch A,Associate,Married
+438,Michael Johnson,2/28/2023,Finance,Specialist,Female,38,Middle Age,98432,10813,4.7,Active,8,Remote,High School,Married
+439,Thomas Smith,2/15/2018,Marketing,Analyst,Non-Binary,41,Middle Age,104747,15671,3.6,On Leave,9,Branch B,Associate,Married
+440,Linda Thomas,11/22/2016,Operations,Specialist,Male,62,Experienced,31332,11738,1.3,On Leave,2,Remote,Master,Widowed
+441,Elizabeth Johnson,7/5/2023,Finance,Manager,Male,33,Middle Age,111540,12186,5,Active,7,Headquarters,Associate,Single
+442,Sarah Martin,7/23/2020,Marketing,Coordinator,Male,27,Young,106734,7773,2.6,On Leave,2,Branch B,PhD,Single
+443,William Jackson,9/16/2018,Operations,Analyst,Male,38,Middle Age,42283,4816,2.8,On Leave,5,Branch A,Master,Single
+444,Elizabeth Anderson,5/25/2023,Sales,Coordinator,Female,40,Middle Age,144932,1717,4,Active,3,Remote,Bachelor,Married
+445,Michael Thomas,11/14/2019,Marketing,Specialist,Female,47,Middle Age,57366,12676,1.6,On Leave,7,Headquarters,Associate,Married
+446,Mary Williams,7/20/2021,Finance,Analyst,Male,53,Experienced,35291,5434,2.2,Terminated,5,Branch A,Associate,Divorced
+447,James Williams,8/17/2022,IT,Engineer,Male,27,Young,138847,18042,2.3,On Leave,7,Branch A,PhD,Widowed
+448,Charles Hernandez,3/28/2018,Marketing,Coordinator,Male,57,Experienced,112892,6057,3.9,Terminated,0,Branch B,PhD,Widowed
+449,Jessica Brown,12/4/2018,IT,Analyst,Female,59,Experienced,95847,5994,4.9,On Leave,5,Branch A,High School,Married
+450,Joseph Taylor,8/27/2020,Operations,Coordinator,Male,32,Middle Age,147742,5234,3.6,Active,0,Branch A,High School,Divorced
+451,Joseph Jackson,7/26/2020,Sales,Analyst,Male,54,Experienced,131099,4764,2.3,Active,0,Branch A,High School,Single
+452,Thomas Jackson,11/15/2017,HR,Manager,Male,45,Middle Age,145897,12181,4.3,On Leave,7,Branch A,PhD,Married
+453,David Jones,4/11/2017,Sales,Coordinator,Non-Binary,44,Middle Age,120828,5637,1.3,Active,6,Remote,High School,Widowed
+454,Karen Jackson,1/29/2017,Marketing,Engineer,Male,36,Middle Age,86351,3104,4.3,On Leave,2,Remote,High School,Widowed
+455,Michael Smith,9/8/2022,IT,Engineer,Non-Binary,48,Middle Age,110947,10447,2.9,Active,5,Remote,Bachelor,Widowed
+456,Michael Lopez,6/27/2016,IT,Specialist,Non-Binary,32,Middle Age,130501,11674,3.1,Terminated,8,Remote,High School,Single
+457,Linda Martin,12/4/2018,Finance,Analyst,Male,38,Middle Age,148444,19991,3.7,On Leave,6,Headquarters,Associate,Widowed
+458,Michael Wilson,12/20/2020,IT,Coordinator,Non-Binary,35,Middle Age,109329,9385,2.5,Terminated,2,Remote,PhD,Single
+459,Sarah Rodriguez,4/24/2015,Finance,Specialist,Male,48,Middle Age,108880,12999,4.7,Terminated,5,Branch A,Master,Single
+460,Susan Martin,12/23/2019,Operations,Coordinator,Female,39,Middle Age,104304,4719,4.5,On Leave,3,Remote,Bachelor,Single
+461,Linda Jackson,4/22/2018,HR,Analyst,Female,49,Middle Age,95847,3581,1.5,Terminated,2,Remote,PhD,Married
+462,Christopher Gonzalez,11/2/2015,Marketing,Engineer,Female,25,Young,65591,19949,2.2,On Leave,8,Branch B,PhD,Single
+463,Christopher Jackson,10/10/2020,Finance,Manager,Female,28,Young,70740,3763,4,Terminated,9,Branch A,Associate,Divorced
+464,Christopher Brown,3/21/2018,HR,Engineer,Non-Binary,56,Experienced,137548,6991,1.3,On Leave,1,Remote,High School,Widowed
+465,Elizabeth Garcia,7/28/2016,IT,Specialist,Male,30,Young,145780,11531,3.4,On Leave,0,Remote,Associate,Married
+466,William Lopez,10/17/2017,IT,Manager,Male,29,Young,144589,12064,2.3,Active,1,Remote,High School,Widowed
+467,Elizabeth Williams,10/26/2022,HR,Specialist,Male,38,Middle Age,56097,12312,3.1,On Leave,6,Headquarters,High School,Single
+468,Jennifer Jackson,3/22/2015,IT,Analyst,Female,38,Middle Age,126595,5780,1.3,On Leave,9,Remote,PhD,Married
+469,Charles Anderson,6/20/2015,Operations,Manager,Female,54,Experienced,120940,5177,2,Terminated,0,Branch B,High School,Divorced
+470,Joseph Hernandez,11/9/2015,Operations,Specialist,Male,53,Experienced,115446,16169,3.5,On Leave,5,Branch A,Bachelor,Single
+471,Susan Martinez,6/5/2020,HR,Analyst,Female,29,Young,80449,7476,4.5,Active,6,Branch A,Bachelor,Widowed
+472,Thomas Jackson,5/4/2023,Finance,Engineer,Male,40,Middle Age,67421,19988,3.3,Terminated,8,Remote,Bachelor,Divorced
+473,Jennifer Miller,4/7/2017,Finance,Analyst,Male,59,Experienced,69663,3382,3,Terminated,7,Remote,PhD,Single
+474,Mary Taylor,7/8/2015,HR,Coordinator,Male,24,Young,103290,17915,2.9,Active,5,Remote,Associate,Divorced
+475,Michael Jackson,5/31/2015,Finance,Analyst,Male,26,Young,133840,13508,2.3,Terminated,2,Branch A,Master,Single
+476,Thomas Davis,9/18/2020,Finance,Analyst,Male,34,Middle Age,92826,1634,1.1,Terminated,7,Branch A,High School,Married
+477,David Brown,1/18/2020,Operations,Coordinator,Male,52,Experienced,36675,12996,3.7,Terminated,6,Headquarters,Master,Single
+478,Karen Johnson,9/19/2021,Finance,Specialist,Male,37,Middle Age,90695,15162,1.8,Terminated,2,Branch B,Associate,Married
+479,Karen Martin,10/23/2022,Sales,Specialist,Female,53,Experienced,48951,17386,1.2,Active,8,Headquarters,Associate,Single
+480,Joseph Taylor,12/6/2015,Marketing,Analyst,Male,43,Middle Age,85833,15005,2.8,Active,1,Branch B,PhD,Single
+481,Mary Jackson,4/27/2015,IT,Coordinator,Male,50,Middle Age,65162,9397,1.8,Terminated,2,Headquarters,Bachelor,Widowed
+482,William Brown,10/1/2015,Sales,Coordinator,Female,43,Middle Age,136926,13327,1.2,Terminated,1,Branch A,Bachelor,Divorced
+483,John Smith,7/27/2017,Finance,Engineer,Female,64,Experienced,56108,15394,4,Active,0,Headquarters,Associate,Divorced
+484,Thomas Lopez,8/28/2019,Operations,Specialist,Female,24,Young,103201,3890,1,Active,3,Branch B,PhD,Divorced
+485,Michael Moore,9/23/2021,HR,Manager,Male,31,Middle Age,132160,11858,1.8,Active,4,Remote,PhD,Single
+486,Jennifer Martinez,10/2/2018,Finance,Specialist,Non-Binary,63,Experienced,66595,9026,1.7,Terminated,5,Branch B,High School,Single
+487,Elizabeth Jackson,5/16/2019,Operations,Specialist,Non-Binary,42,Middle Age,135610,4306,4.5,Terminated,4,Remote,Bachelor,Single
+488,Robert Martin,2/4/2021,Marketing,Engineer,Female,37,Middle Age,144774,1897,2.3,On Leave,0,Branch A,Associate,Married
+489,Linda Martin,10/27/2017,Finance,Manager,Non-Binary,33,Middle Age,95205,10277,1.6,Active,2,Branch B,Master,Married
+490,Jessica Gonzalez,12/16/2016,HR,Engineer,Female,23,Young,128521,10471,2.4,Terminated,0,Headquarters,Bachelor,Widowed
+491,David Jackson,8/8/2020,Operations,Manager,Male,62,Experienced,39136,15896,2.6,Active,4,Branch B,High School,Single
+492,Jessica Brown,2/2/2022,Operations,Analyst,Non-Binary,45,Middle Age,121974,16240,3.4,Terminated,4,Remote,PhD,Divorced
+493,Karen Lopez,7/27/2019,Operations,Manager,Male,56,Experienced,142024,15683,4.1,Active,5,Branch A,Associate,Divorced
+494,Elizabeth Martin,9/16/2022,Marketing,Engineer,Non-Binary,51,Experienced,94989,1670,4.6,Terminated,7,Headquarters,Bachelor,Widowed
+495,John Martin,6/30/2015,Finance,Specialist,Male,51,Experienced,45397,18889,4.2,On Leave,9,Branch B,Master,Divorced
+496,Karen Smith,5/29/2023,Marketing,Manager,Non-Binary,56,Experienced,36599,12767,2,On Leave,0,Remote,High School,Widowed
+497,Michael Lopez,11/29/2021,IT,Manager,Male,40,Middle Age,64278,14006,2.2,Active,3,Headquarters,High School,Single
+498,Karen Gonzalez,2/14/2022,IT,Coordinator,Male,29,Young,148689,16768,3.1,Terminated,9,Branch A,Bachelor,Divorced
+499,Charles Jones,12/1/2016,Finance,Specialist,Non-Binary,47,Middle Age,116848,17633,2,Terminated,0,Headquarters,Master,Single
+500,Linda Rodriguez,9/23/2018,Marketing,Analyst,Male,61,Experienced,107232,2892,1.3,Active,8,Branch A,High School,Married
+501,Mary Lopez,5/19/2018,HR,Engineer,Male,28,Young,56854,4439,4.8,Terminated,6,Headquarters,Associate,Divorced
+502,Jessica Martinez,7/4/2023,Operations,Analyst,Male,51,Experienced,115956,3854,1.5,Active,6,Branch B,High School,Married
+503,Karen Martin,10/22/2022,Operations,Specialist,Non-Binary,28,Young,46292,12577,2.2,Terminated,4,Remote,Master,Divorced
+504,Jennifer Davis,11/11/2017,Finance,Manager,Non-Binary,24,Young,77972,12763,4.3,Active,6,Branch B,PhD,Single
+505,Christopher Moore,6/27/2020,IT,Manager,Male,22,Young,109400,12618,1,Terminated,1,Branch B,PhD,Widowed
+506,David Jones,5/31/2022,IT,Specialist,Male,57,Experienced,108593,9235,1.5,Active,3,Branch A,Bachelor,Single
+507,Elizabeth Thomas,11/24/2018,Operations,Manager,Non-Binary,46,Middle Age,109133,3618,4.5,Terminated,6,Branch A,Master,Single
+508,Mary Martin,2/10/2015,Finance,Manager,Non-Binary,58,Experienced,59461,4163,2.9,On Leave,2,Branch A,High School,Single
+509,John Brown,12/2/2022,Marketing,Manager,Male,22,Young,53134,3942,1.3,Terminated,1,Branch B,High School,Divorced
+510,Charles Williams,8/31/2017,IT,Engineer,Male,36,Middle Age,137703,2925,3.5,Active,9,Headquarters,PhD,Widowed
+511,Patricia Jones,1/21/2016,Marketing,Engineer,Male,58,Experienced,83395,3972,1.5,On Leave,1,Headquarters,PhD,Married
+512,John Wilson,7/3/2023,IT,Coordinator,Female,34,Middle Age,35673,12705,3.4,Terminated,0,Branch B,Associate,Single
+513,Robert Smith,10/18/2017,IT,Analyst,Non-Binary,61,Experienced,83985,11640,1.6,On Leave,4,Branch B,PhD,Divorced
+514,Mary Martinez,2/14/2018,Sales,Specialist,Female,29,Young,37909,11966,4.3,Terminated,5,Remote,Associate,Married
+515,Joseph Martinez,7/31/2020,IT,Specialist,Non-Binary,26,Young,97145,18374,1.2,On Leave,5,Branch A,High School,Single
+516,Susan Garcia,2/5/2019,HR,Specialist,Non-Binary,30,Young,101782,12138,3.4,Active,8,Branch A,Associate,Married
+517,Elizabeth Garcia,2/9/2021,Finance,Coordinator,Non-Binary,22,Young,60505,19196,2.8,Terminated,3,Branch B,Associate,Single
+518,David Garcia,9/21/2019,Finance,Engineer,Non-Binary,57,Experienced,95369,16935,1.7,Terminated,0,Branch B,Bachelor,Married
+519,Jessica Martin,8/30/2023,Marketing,Coordinator,Non-Binary,56,Experienced,39102,14145,1.3,Active,5,Headquarters,PhD,Married
+520,Robert Martinez,9/23/2017,IT,Specialist,Non-Binary,23,Young,86869,1489,1.2,On Leave,4,Branch B,Associate,Widowed
+521,Barbara Davis,8/20/2019,HR,Analyst,Non-Binary,61,Experienced,118728,12748,4.3,Active,9,Headquarters,High School,Widowed
+522,Charles Martinez,2/27/2022,Marketing,Manager,Female,44,Middle Age,49401,4516,4,Active,5,Branch B,Master,Single
+523,William Taylor,12/1/2021,Sales,Engineer,Male,30,Young,104449,7410,4.4,On Leave,2,Remote,Associate,Divorced
+524,Linda Williams,10/24/2015,Marketing,Engineer,Male,55,Experienced,41666,1053,1.6,Active,1,Remote,PhD,Widowed
+525,Patricia Wilson,10/1/2017,Marketing,Coordinator,Female,35,Middle Age,69548,19959,4.5,Terminated,5,Headquarters,Bachelor,Married
+526,Linda Lopez,6/2/2016,IT,Engineer,Female,25,Young,81191,17999,3,Terminated,0,Branch A,High School,Widowed
+527,David Wilson,9/21/2016,Sales,Specialist,Female,51,Experienced,86975,6944,4.7,Terminated,6,Remote,Bachelor,Widowed
+528,Jennifer Anderson,6/20/2015,Marketing,Specialist,Female,52,Experienced,98735,8404,3.2,Active,6,Headquarters,Master,Single
+529,Jennifer Lopez,8/5/2021,HR,Coordinator,Non-Binary,59,Experienced,135349,1954,5,Terminated,9,Branch B,Associate,Widowed
+530,Charles Jackson,5/6/2022,HR,Specialist,Male,32,Middle Age,43106,11625,2.1,Terminated,6,Branch B,Associate,Widowed
+531,Patricia Miller,11/22/2015,Finance,Analyst,Non-Binary,56,Experienced,101815,2629,4,Terminated,9,Headquarters,PhD,Married
+532,Mary Jones,6/28/2017,Sales,Coordinator,Male,29,Young,109381,11973,2.5,Terminated,0,Branch A,Associate,Widowed
+533,Jessica Jackson,5/25/2018,Sales,Analyst,Male,24,Young,134284,7859,1.1,Terminated,3,Headquarters,High School,Married
+534,Christopher Garcia,2/5/2022,Finance,Manager,Female,35,Middle Age,60611,9841,4.1,Terminated,6,Headquarters,Master,Widowed
+535,James Brown,12/31/2015,Marketing,Analyst,Non-Binary,34,Middle Age,103560,11539,3.8,Active,8,Remote,Bachelor,Widowed
+536,Karen Hernandez,12/4/2016,Sales,Manager,Female,53,Experienced,127894,13682,1.3,Terminated,4,Headquarters,Master,Divorced
+537,Michael Williams,5/7/2022,HR,Manager,Non-Binary,55,Experienced,47475,4278,3.3,Terminated,1,Headquarters,Associate,Widowed
+538,James Moore,10/16/2021,HR,Analyst,Male,40,Middle Age,124649,19945,4.2,On Leave,6,Branch B,Bachelor,Married
+539,Jessica Wilson,1/21/2021,IT,Coordinator,Female,59,Experienced,62625,7539,4.2,Active,9,Remote,PhD,Married
+540,Mary Hernandez,4/11/2017,Sales,Specialist,Female,37,Middle Age,103190,17754,5,Active,0,Branch B,Master,Single
+541,Mary Davis,6/9/2018,Marketing,Specialist,Male,23,Young,32128,1857,2.2,Active,6,Branch B,Bachelor,Single
+542,James Lopez,10/31/2022,Finance,Manager,Male,61,Experienced,94236,5886,1,Active,5,Branch A,Bachelor,Divorced
+543,Susan Wilson,1/20/2019,Finance,Manager,Male,38,Middle Age,100592,13945,1.6,Terminated,6,Branch A,Bachelor,Married
+544,Susan Lopez,11/27/2023,Marketing,Coordinator,Female,55,Experienced,68357,8485,3.5,Terminated,9,Remote,High School,Married
+545,William Gonzalez,12/23/2020,Operations,Engineer,Non-Binary,63,Experienced,68348,14680,2.7,On Leave,2,Remote,Master,Married
+546,James Brown,11/16/2023,IT,Analyst,Female,37,Middle Age,128487,17767,3.3,On Leave,2,Branch A,Bachelor,Divorced
+547,Patricia Martinez,5/14/2020,Finance,Manager,Non-Binary,59,Experienced,74305,15397,3.3,Active,6,Branch A,Master,Married
+548,Sarah Martinez,8/11/2015,Sales,Specialist,Female,23,Young,122746,11744,2.1,On Leave,1,Branch A,Bachelor,Single
+549,Jennifer Johnson,11/30/2018,IT,Coordinator,Female,23,Young,145580,5334,3.2,On Leave,0,Branch A,PhD,Divorced
+550,Susan Wilson,9/8/2017,Sales,Analyst,Male,47,Middle Age,33232,13226,4.4,Active,8,Branch A,PhD,Single
+551,Jessica Martin,1/13/2019,HR,Coordinator,Non-Binary,34,Middle Age,38565,14440,1.2,Active,8,Branch B,PhD,Single
+552,Christopher Martin,8/10/2018,IT,Analyst,Female,52,Experienced,113576,16020,4.6,On Leave,6,Remote,Associate,Divorced
+553,Mary Jackson,1/17/2022,Finance,Analyst,Female,55,Experienced,101165,5251,1.2,Terminated,6,Branch B,Bachelor,Widowed
+554,Christopher Davis,3/21/2023,IT,Manager,Male,60,Experienced,58142,13180,1.7,On Leave,2,Branch B,Associate,Widowed
+555,David Thomas,7/3/2016,IT,Coordinator,Male,24,Young,92600,17140,3.2,On Leave,9,Headquarters,Master,Single
+556,Charles Martin,12/31/2023,IT,Coordinator,Non-Binary,29,Young,56195,1922,4.4,Terminated,1,Branch B,Associate,Widowed
+557,Jennifer Jones,11/12/2015,Operations,Specialist,Female,44,Middle Age,122219,8957,3.4,Terminated,6,Branch A,Master,Married
+558,Jessica Wilson,5/15/2019,IT,Specialist,Non-Binary,35,Middle Age,95625,16796,3.2,Active,8,Branch A,Master,Divorced
+559,Christopher Martinez,10/11/2022,Sales,Manager,Female,48,Middle Age,36138,2230,4.7,Active,0,Headquarters,Master,Single
+560,David Brown,7/13/2019,HR,Manager,Non-Binary,50,Middle Age,148497,11627,1.3,On Leave,3,Headquarters,Associate,Married
+561,Barbara Jackson,7/7/2016,Marketing,Engineer,Male,60,Experienced,72118,11006,1.9,Terminated,5,Headquarters,Bachelor,Widowed
+562,Thomas Williams,6/20/2016,IT,Specialist,Female,60,Experienced,122747,5933,2.5,Active,6,Headquarters,Associate,Married
+563,Robert Thomas,4/11/2017,Finance,Analyst,Non-Binary,22,Young,104711,15295,1.9,On Leave,9,Headquarters,Bachelor,Widowed
+564,Jessica Davis,6/1/2017,IT,Coordinator,Male,38,Middle Age,44656,17377,1.3,Terminated,6,Branch B,Bachelor,Single
+565,William Wilson,5/13/2017,Finance,Manager,Male,62,Experienced,109897,1203,1.8,On Leave,9,Headquarters,Master,Married
+566,Jennifer Rodriguez,7/22/2017,Sales,Coordinator,Non-Binary,51,Experienced,100260,17544,2.8,Active,1,Branch B,Associate,Divorced
+567,Charles Garcia,4/15/2018,Finance,Coordinator,Female,34,Middle Age,86822,16899,4.3,Active,3,Remote,Bachelor,Single
+568,Linda Jones,2/17/2022,Marketing,Engineer,Female,42,Middle Age,126718,4748,3.6,Terminated,4,Headquarters,PhD,Married
+569,James Gonzalez,6/4/2020,HR,Specialist,Male,40,Middle Age,52668,7718,4.6,On Leave,0,Headquarters,Bachelor,Married
+570,Charles Taylor,8/22/2020,Finance,Manager,Female,40,Middle Age,86410,19965,1.8,Terminated,0,Branch B,PhD,Widowed
+571,Michael Thomas,3/3/2016,Finance,Coordinator,Female,46,Middle Age,34469,2093,1.5,Active,9,Remote,Associate,Single
+572,Charles Gonzalez,3/27/2023,HR,Manager,Female,43,Middle Age,83178,16228,3,Active,2,Branch B,Associate,Single
+573,William Martin,3/27/2021,Marketing,Analyst,Male,52,Experienced,115819,17034,2.2,On Leave,9,Branch B,Associate,Single
+574,Mary Smith,6/13/2015,IT,Engineer,Non-Binary,38,Middle Age,76992,6710,1.4,On Leave,2,Headquarters,Bachelor,Single
+575,John Hernandez,8/7/2016,Finance,Analyst,Female,44,Middle Age,125972,10732,1,On Leave,7,Branch A,High School,Widowed
+576,Jennifer Jones,11/3/2019,HR,Manager,Male,53,Experienced,61463,4191,4.4,Terminated,8,Branch A,Bachelor,Divorced
+577,Michael Williams,4/6/2019,Sales,Manager,Male,31,Middle Age,116822,19221,1.3,On Leave,0,Branch B,Bachelor,Single
+578,William Brown,6/28/2019,HR,Specialist,Non-Binary,31,Middle Age,130418,1689,2.7,On Leave,1,Headquarters,Master,Widowed
+579,John Wilson,6/27/2017,Sales,Coordinator,Female,57,Experienced,126598,3103,3.2,Active,9,Remote,Master,Divorced
+580,John Gonzalez,1/3/2022,Marketing,Coordinator,Female,29,Young,78118,1365,1.7,Active,1,Branch A,Bachelor,Divorced
+581,James Jackson,7/2/2019,IT,Analyst,Non-Binary,41,Middle Age,45518,15010,1.6,On Leave,3,Remote,PhD,Widowed
+582,Jessica Brown,5/5/2022,HR,Engineer,Non-Binary,53,Experienced,35507,12767,1.3,On Leave,1,Branch A,Master,Single
+583,Linda Johnson,3/12/2020,Operations,Coordinator,Male,35,Middle Age,65129,17103,2,Active,6,Headquarters,Bachelor,Divorced
+584,Thomas Gonzalez,5/18/2018,Finance,Specialist,Male,49,Middle Age,56500,13742,1.9,On Leave,8,Branch B,High School,Single
+585,William Johnson,9/20/2018,Marketing,Analyst,Non-Binary,45,Middle Age,46428,13391,2.2,Terminated,6,Remote,PhD,Single
+586,Jennifer Gonzalez,3/22/2019,HR,Analyst,Female,36,Middle Age,40587,5172,2.6,Terminated,5,Remote,Associate,Married
+587,Thomas Williams,1/31/2017,Finance,Specialist,Male,43,Middle Age,42223,16623,2.3,Terminated,9,Branch B,Bachelor,Single
+588,Joseph Garcia,6/8/2018,HR,Engineer,Male,51,Experienced,65586,3378,3.7,On Leave,0,Remote,Bachelor,Married
+589,Joseph Hernandez,2/28/2017,Sales,Specialist,Female,25,Young,42226,18589,2.3,Active,9,Branch A,PhD,Divorced
+590,John Garcia,3/21/2016,HR,Engineer,Male,34,Middle Age,144040,13031,3.1,On Leave,8,Branch B,Master,Widowed
+591,Jessica Garcia,6/5/2016,Operations,Specialist,Female,44,Middle Age,99326,6669,4.7,On Leave,4,Branch A,Master,Married
+592,James Johnson,2/16/2022,HR,Specialist,Female,29,Young,99711,3735,2.3,Active,4,Branch A,Master,Widowed
+593,David Thomas,9/1/2017,HR,Manager,Female,39,Middle Age,123975,10867,3,Active,5,Headquarters,Associate,Divorced
+594,Karen Johnson,12/7/2016,Operations,Analyst,Non-Binary,33,Middle Age,53472,9490,3.3,Active,8,Branch A,PhD,Single
+595,Michael Anderson,6/26/2022,Marketing,Specialist,Non-Binary,52,Experienced,111676,1956,1.8,Terminated,7,Headquarters,PhD,Divorced
+596,Robert Smith,5/7/2021,HR,Specialist,Non-Binary,35,Middle Age,96945,10306,3.1,On Leave,7,Remote,Master,Widowed
+597,Sarah Miller,5/19/2017,Operations,Coordinator,Female,55,Experienced,93197,7623,2.9,Active,7,Remote,Master,Divorced
+598,Michael Taylor,3/14/2019,Finance,Analyst,Female,39,Middle Age,78010,15908,4.7,On Leave,0,Headquarters,High School,Single
+599,William Martinez,12/16/2019,Sales,Coordinator,Non-Binary,55,Experienced,95072,18858,2.7,Terminated,0,Branch A,High School,Divorced
+600,Sarah Jones,10/26/2015,Sales,Analyst,Male,32,Middle Age,73736,5460,2.8,Terminated,7,Branch B,Bachelor,Single
+601,William Smith,10/5/2019,HR,Coordinator,Female,62,Experienced,64556,14986,1.6,Active,4,Branch B,Bachelor,Married
+602,John Hernandez,10/7/2018,Marketing,Specialist,Male,33,Middle Age,113308,13638,2,Active,8,Headquarters,PhD,Widowed
+603,Joseph Miller,10/10/2017,Marketing,Specialist,Male,36,Middle Age,112815,3850,2.7,On Leave,1,Remote,PhD,Single
+604,Charles Johnson,7/14/2019,Finance,Manager,Female,52,Experienced,83244,14299,1.3,Active,8,Remote,Associate,Single
+605,Mary Rodriguez,10/23/2022,HR,Coordinator,Female,50,Middle Age,120419,11698,2.9,On Leave,7,Branch B,Associate,Divorced
+606,Joseph Martin,12/26/2023,Sales,Engineer,Male,47,Middle Age,46201,5594,4,Active,8,Headquarters,High School,Married
+607,Susan Miller,9/8/2015,Marketing,Manager,Male,39,Middle Age,84404,15282,4.6,On Leave,3,Branch B,Bachelor,Single
+608,Thomas Wilson,5/3/2015,HR,Coordinator,Non-Binary,53,Experienced,76137,17285,2.8,On Leave,0,Branch A,High School,Married
+609,Karen Miller,8/8/2022,Marketing,Coordinator,Non-Binary,43,Middle Age,68101,15334,3,On Leave,0,Branch A,High School,Married
+610,Joseph Miller,2/15/2020,Operations,Manager,Female,59,Experienced,91582,7644,1.8,On Leave,4,Headquarters,Bachelor,Divorced
+611,Patricia Taylor,11/17/2017,Marketing,Specialist,Non-Binary,38,Middle Age,108065,3850,2.5,Terminated,1,Headquarters,Associate,Single
+612,Susan Garcia,11/1/2021,Sales,Coordinator,Non-Binary,44,Middle Age,31035,15933,3.4,On Leave,7,Branch A,Bachelor,Divorced
+613,Thomas Gonzalez,8/7/2015,IT,Specialist,Non-Binary,45,Middle Age,38981,1165,2.1,Active,9,Remote,Master,Widowed
+614,Jessica Lopez,6/27/2016,Finance,Manager,Non-Binary,29,Young,133290,11701,4.4,Terminated,4,Headquarters,Master,Widowed
+615,Thomas Taylor,4/8/2023,Finance,Specialist,Male,62,Experienced,143758,1919,2.3,Terminated,4,Branch A,Master,Single
+616,William Rodriguez,7/19/2019,Sales,Analyst,Female,27,Young,54846,9305,4.7,On Leave,1,Branch A,PhD,Married
+617,Joseph Jackson,7/29/2018,Marketing,Engineer,Non-Binary,26,Young,57720,18375,1.9,Terminated,6,Remote,Associate,Single
+618,William Thomas,6/14/2015,HR,Coordinator,Male,50,Middle Age,99560,16715,1.2,On Leave,7,Remote,Associate,Single
+619,John Martin,7/17/2017,Marketing,Engineer,Male,49,Middle Age,129148,4839,3.2,Active,9,Remote,PhD,Widowed
+620,Jessica Lopez,12/19/2020,Sales,Specialist,Male,32,Middle Age,69148,18642,1.3,On Leave,0,Remote,High School,Widowed
+621,James Jones,1/25/2023,Finance,Coordinator,Non-Binary,22,Young,137703,12618,1.9,Terminated,1,Branch B,Master,Married
+622,Elizabeth Anderson,9/19/2023,Marketing,Specialist,Non-Binary,64,Experienced,108040,14519,4.8,Active,9,Remote,Master,Married
+623,Jennifer Hernandez,6/5/2017,Finance,Analyst,Female,40,Middle Age,30387,11776,4.3,On Leave,3,Branch B,High School,Single
+624,Barbara Martinez,7/12/2019,HR,Manager,Non-Binary,30,Young,61536,1067,1.2,Active,4,Headquarters,Bachelor,Divorced
+625,Linda Miller,2/5/2020,Finance,Coordinator,Non-Binary,48,Middle Age,58628,10788,1.3,Active,1,Branch A,Bachelor,Single
+626,Susan Johnson,8/29/2017,Finance,Analyst,Male,55,Experienced,140967,6660,2.4,Terminated,0,Branch B,Associate,Married
+627,David Hernandez,11/21/2020,IT,Analyst,Female,25,Young,138649,5478,2.1,Active,8,Headquarters,PhD,Divorced
+628,James Thomas,8/27/2017,IT,Coordinator,Non-Binary,57,Experienced,57488,9210,4.3,Terminated,0,Headquarters,Associate,Widowed
+629,Jessica Wilson,2/12/2020,Operations,Specialist,Non-Binary,39,Middle Age,82314,11922,2.8,Active,3,Branch B,Bachelor,Married
+630,James Hernandez,3/5/2023,IT,Analyst,Male,36,Middle Age,55388,4521,1.2,On Leave,1,Headquarters,High School,Married
+631,James Moore,7/5/2020,Finance,Engineer,Male,34,Middle Age,117624,1572,3.8,Active,3,Headquarters,Associate,Divorced
+632,Robert Smith,7/24/2018,Sales,Analyst,Non-Binary,40,Middle Age,57929,8082,4,On Leave,7,Branch B,Master,Married
+633,Elizabeth Rodriguez,9/21/2021,Finance,Specialist,Female,27,Young,144783,6395,1.2,On Leave,7,Headquarters,Master,Married
+634,Thomas Jackson,11/29/2017,Sales,Specialist,Female,33,Middle Age,100432,16407,2.5,Active,8,Remote,High School,Married
+635,Michael Smith,4/11/2020,Sales,Engineer,Male,58,Experienced,69509,19642,3.5,On Leave,4,Remote,Bachelor,Married
+636,William Rodriguez,4/14/2021,IT,Analyst,Male,38,Middle Age,128977,12094,1.4,Active,6,Branch A,Master,Married
+637,Christopher Brown,9/9/2022,Marketing,Specialist,Non-Binary,44,Middle Age,119162,1650,3,Active,2,Headquarters,Master,Married
+638,Michael Garcia,3/28/2022,HR,Coordinator,Male,47,Middle Age,59639,6741,1.7,On Leave,9,Branch A,PhD,Married
+639,Joseph Miller,5/10/2023,IT,Manager,Non-Binary,50,Middle Age,115659,14281,3.3,On Leave,3,Remote,Associate,Married
+640,William Williams,8/13/2015,IT,Manager,Female,54,Experienced,99052,7838,1.2,Terminated,9,Remote,Bachelor,Widowed
+641,Jennifer Taylor,6/27/2015,Marketing,Manager,Female,48,Middle Age,87277,19971,4.6,On Leave,8,Remote,Associate,Married
+642,Karen Brown,11/7/2021,HR,Analyst,Non-Binary,46,Middle Age,97984,4262,4.1,Terminated,9,Headquarters,Bachelor,Widowed
+643,John Davis,8/2/2020,Finance,Engineer,Male,31,Middle Age,93919,18722,1.6,On Leave,9,Headquarters,Master,Widowed
+644,Charles Smith,3/1/2016,Operations,Specialist,Female,44,Middle Age,107298,5996,3.4,Active,0,Remote,PhD,Single
+645,Susan Johnson,4/19/2018,Operations,Coordinator,Male,42,Middle Age,137345,12826,2.1,On Leave,1,Branch A,Associate,Single
+646,Robert Martin,9/5/2022,Finance,Coordinator,Female,42,Middle Age,122229,3827,3.5,Active,4,Branch A,Master,Widowed
+647,Elizabeth Gonzalez,12/21/2022,IT,Analyst,Non-Binary,64,Experienced,32151,15211,1.5,Active,2,Branch B,Bachelor,Widowed
+648,Barbara Davis,3/24/2019,HR,Manager,Non-Binary,34,Middle Age,111263,6232,4.3,Active,1,Remote,Associate,Married
+649,Elizabeth Davis,4/17/2021,IT,Analyst,Non-Binary,58,Experienced,58299,3217,2.6,Terminated,0,Branch A,Associate,Single
+650,Jessica Brown,7/1/2019,Sales,Engineer,Female,54,Experienced,62688,15232,1.7,On Leave,9,Remote,Master,Divorced
+651,Joseph Williams,6/27/2021,IT,Engineer,Male,45,Middle Age,80821,15026,3.9,Active,2,Branch A,Associate,Single
+652,Michael Hernandez,12/15/2016,IT,Specialist,Male,32,Middle Age,123327,14878,4.1,Active,0,Branch B,PhD,Widowed
+653,Thomas Martin,11/1/2016,Finance,Specialist,Male,38,Middle Age,50739,7837,1.6,Terminated,0,Branch B,PhD,Widowed
+654,Barbara Wilson,7/13/2018,Finance,Engineer,Female,25,Young,97107,8031,1.7,On Leave,0,Remote,Master,Married
+655,Joseph Thomas,5/30/2016,Finance,Engineer,Female,46,Middle Age,63404,15806,4.4,On Leave,7,Branch A,Bachelor,Married
+656,Elizabeth Hernandez,4/14/2020,Operations,Engineer,Female,51,Experienced,79948,4716,4.8,Terminated,2,Headquarters,Master,Single
+657,Robert Davis,10/3/2020,Sales,Analyst,Female,30,Young,59553,4414,3,Terminated,0,Branch B,PhD,Married
+658,Jessica Thomas,7/10/2016,Finance,Engineer,Female,42,Middle Age,122933,18832,2.9,On Leave,6,Remote,High School,Divorced
+659,Charles Lopez,6/2/2017,HR,Coordinator,Male,41,Middle Age,148207,1570,1.8,Terminated,9,Remote,High School,Divorced
+660,Jennifer Moore,1/8/2019,Operations,Manager,Female,40,Middle Age,55100,14288,3.4,On Leave,2,Branch A,Associate,Married
+661,Barbara Wilson,1/23/2015,Marketing,Engineer,Female,40,Middle Age,126644,19889,2.6,On Leave,7,Remote,Associate,Divorced
+662,Elizabeth Lopez,8/23/2021,HR,Manager,Male,33,Middle Age,122124,1917,1.1,Active,3,Branch B,High School,Divorced
+663,Michael Miller,12/24/2017,HR,Analyst,Female,58,Experienced,39737,11066,2.6,Active,3,Remote,PhD,Single
+664,Michael Moore,9/4/2021,Finance,Manager,Male,63,Experienced,127598,7982,3.5,On Leave,4,Remote,Associate,Divorced
+665,Michael Brown,4/20/2022,Marketing,Analyst,Male,38,Middle Age,134881,7336,3.9,On Leave,5,Headquarters,Master,Widowed
+666,Jennifer Davis,2/28/2017,Marketing,Coordinator,Non-Binary,58,Experienced,110593,19062,3.1,On Leave,6,Headquarters,Master,Widowed
+667,William Wilson,12/11/2019,Operations,Analyst,Non-Binary,60,Experienced,65813,17999,4.9,On Leave,3,Branch B,PhD,Single
+668,Sarah Garcia,10/7/2016,Marketing,Analyst,Non-Binary,49,Middle Age,33998,10941,2,On Leave,7,Branch A,Associate,Married
+669,John Martinez,11/26/2016,Sales,Specialist,Non-Binary,62,Experienced,100915,13380,3.7,On Leave,5,Headquarters,Master,Single
+670,David Jackson,5/19/2023,Finance,Engineer,Female,56,Experienced,144939,12667,4.7,Terminated,0,Branch A,Associate,Married
+671,Christopher Garcia,5/10/2018,Marketing,Engineer,Non-Binary,39,Middle Age,129107,5529,3.8,On Leave,0,Branch B,Associate,Married
+672,James Rodriguez,12/14/2018,Operations,Coordinator,Male,35,Middle Age,146971,18519,1.3,Terminated,8,Headquarters,Master,Married
+673,James Smith,4/18/2022,Sales,Coordinator,Female,56,Experienced,49046,13192,4.8,Terminated,9,Branch A,High School,Married
+674,Susan Jones,9/18/2023,IT,Engineer,Non-Binary,62,Experienced,105463,9566,3.4,On Leave,5,Headquarters,Master,Married
+675,Patricia Smith,8/11/2023,IT,Specialist,Male,28,Young,100962,8226,4.8,On Leave,9,Branch B,PhD,Single
+676,Robert Jackson,5/24/2023,Sales,Engineer,Female,62,Experienced,129167,6162,1.8,Terminated,7,Branch B,Bachelor,Married
+677,Michael Johnson,11/6/2023,Operations,Specialist,Female,34,Middle Age,101388,17590,3.3,Terminated,6,Headquarters,Master,Divorced
+678,Charles Brown,4/29/2021,Sales,Coordinator,Non-Binary,39,Middle Age,73725,2319,1.5,On Leave,5,Branch A,Associate,Divorced
+679,Linda Anderson,12/10/2021,Finance,Manager,Female,58,Experienced,124111,2141,2,On Leave,3,Remote,Associate,Married
+680,Jennifer Johnson,8/17/2016,Finance,Coordinator,Male,34,Middle Age,51583,5627,4.4,Terminated,6,Remote,Master,Divorced
+681,Barbara Wilson,12/20/2022,IT,Coordinator,Female,57,Experienced,30160,15501,4,Terminated,8,Headquarters,Bachelor,Widowed
+682,Sarah Anderson,1/7/2015,Marketing,Analyst,Male,52,Experienced,138696,3690,1.5,Terminated,9,Branch A,Master,Single
+683,Michael Martin,6/28/2018,Operations,Analyst,Female,23,Young,33025,8323,2.7,Active,9,Remote,Bachelor,Single
+684,William Hernandez,12/20/2021,IT,Analyst,Non-Binary,37,Middle Age,43295,4255,2.2,Terminated,6,Branch B,Bachelor,Married
+685,Robert Williams,6/1/2018,Marketing,Analyst,Male,30,Young,143801,6213,3.3,Active,0,Branch A,PhD,Married
+686,Susan Garcia,8/27/2020,Marketing,Specialist,Female,30,Young,108942,5108,4.8,On Leave,9,Remote,Associate,Widowed
+687,Sarah Johnson,12/24/2022,Finance,Engineer,Female,59,Experienced,81523,19241,4.1,On Leave,8,Branch A,Associate,Married
+688,David Williams,9/20/2016,HR,Manager,Female,32,Middle Age,105096,10802,1.2,Terminated,3,Headquarters,Bachelor,Divorced
+689,Michael Williams,1/24/2021,HR,Coordinator,Male,43,Middle Age,129718,12413,4.6,On Leave,2,Branch A,Associate,Widowed
+690,Thomas Martin,10/19/2023,Sales,Specialist,Male,54,Experienced,74752,15995,1.2,On Leave,3,Remote,High School,Divorced
+691,Patricia Wilson,10/24/2023,Finance,Manager,Male,57,Experienced,46569,13583,2.8,On Leave,3,Headquarters,Bachelor,Single
+692,Joseph Johnson,3/1/2018,Marketing,Specialist,Non-Binary,44,Middle Age,137620,6021,4.9,On Leave,9,Branch A,Associate,Divorced
+693,Barbara Gonzalez,5/4/2023,Operations,Specialist,Non-Binary,55,Experienced,127742,19771,2.9,Active,1,Branch B,High School,Single
+694,Joseph Wilson,8/17/2017,HR,Coordinator,Male,30,Young,81965,7582,2.9,Active,0,Remote,PhD,Divorced
+695,Patricia Smith,4/5/2016,Marketing,Engineer,Female,45,Middle Age,41196,14455,4.7,Terminated,9,Headquarters,Associate,Single
+696,James Thomas,1/23/2022,HR,Analyst,Non-Binary,29,Young,147662,14117,2,Terminated,0,Branch A,High School,Married
+697,Thomas Jones,5/19/2019,HR,Engineer,Male,28,Young,58424,19950,2.2,Terminated,7,Branch B,Master,Divorced
+698,William Hernandez,6/29/2015,HR,Coordinator,Female,57,Experienced,44957,18359,4.1,On Leave,1,Remote,Master,Single
+699,Linda Davis,11/30/2018,Operations,Coordinator,Non-Binary,39,Middle Age,143112,2262,1.6,On Leave,9,Branch B,High School,Divorced
+700,Barbara Gonzalez,6/3/2016,Finance,Coordinator,Female,24,Young,109226,8382,1.6,Active,4,Branch A,Bachelor,Widowed
+701,Christopher Smith,10/6/2022,Operations,Manager,Female,49,Middle Age,94301,4327,4.6,Active,3,Branch A,Bachelor,Married
+702,James Gonzalez,1/29/2017,IT,Engineer,Female,27,Young,109261,19643,4.5,Terminated,7,Headquarters,Associate,Single
+703,William Gonzalez,5/27/2015,Marketing,Engineer,Female,42,Middle Age,122121,11020,2.1,Active,1,Branch B,Master,Widowed
+704,William Anderson,5/18/2020,Finance,Specialist,Non-Binary,49,Middle Age,123752,18641,1.9,Active,9,Headquarters,Bachelor,Divorced
+705,Linda Jackson,7/25/2016,Finance,Specialist,Non-Binary,61,Experienced,77238,17848,4.2,Active,8,Remote,Bachelor,Widowed
+706,Jennifer Lopez,3/16/2019,Finance,Specialist,Non-Binary,22,Young,120236,15062,3.7,Active,6,Headquarters,Master,Divorced
+707,David Martin,5/8/2023,Finance,Coordinator,Male,57,Experienced,117292,7774,2.1,Active,6,Remote,PhD,Married
+708,Robert Gonzalez,6/18/2015,Operations,Engineer,Non-Binary,42,Middle Age,81075,16160,3.1,Terminated,0,Branch A,Bachelor,Widowed
+709,Patricia Smith,9/22/2018,Finance,Coordinator,Female,64,Experienced,122422,2230,2.2,Terminated,1,Branch A,High School,Married
+710,Thomas Taylor,5/16/2015,Sales,Manager,Non-Binary,56,Experienced,73582,10076,2.5,Active,3,Branch B,Associate,Single
+711,Jessica Martin,12/9/2020,Marketing,Specialist,Female,34,Middle Age,65197,4805,2.4,Terminated,3,Remote,Bachelor,Divorced
+712,Charles Johnson,4/21/2016,Finance,Coordinator,Male,31,Middle Age,124682,15715,1.5,On Leave,2,Branch A,Bachelor,Divorced
+713,Jessica Garcia,2/15/2021,Marketing,Coordinator,Female,31,Middle Age,85033,6750,2.4,Active,6,Branch B,PhD,Married
+714,Linda Jones,3/7/2022,Sales,Manager,Female,34,Middle Age,149703,16627,2,On Leave,7,Branch B,High School,Married
+715,Jessica Anderson,1/5/2016,Sales,Analyst,Female,58,Experienced,133838,14232,3.4,Terminated,1,Headquarters,Associate,Single
+716,Mary Taylor,10/20/2021,Marketing,Engineer,Male,59,Experienced,121865,4135,2.3,Terminated,3,Branch B,Bachelor,Widowed
+717,Linda Jones,12/1/2022,HR,Analyst,Non-Binary,45,Middle Age,109828,7953,3.7,On Leave,2,Branch A,Associate,Divorced
+718,Michael Wilson,12/16/2020,IT,Specialist,Non-Binary,23,Young,32477,2546,1.8,Terminated,1,Headquarters,Master,Divorced
+719,Joseph Johnson,4/17/2021,HR,Coordinator,Male,43,Middle Age,77656,16457,3.1,Active,5,Remote,Bachelor,Single
+720,Barbara Jackson,6/10/2016,HR,Manager,Female,38,Middle Age,54403,18478,3.5,On Leave,3,Remote,Bachelor,Single
+721,Susan Hernandez,10/25/2021,Operations,Manager,Non-Binary,57,Experienced,51680,3411,4.5,Active,5,Branch A,Master,Married
+722,William Williams,3/7/2019,HR,Engineer,Male,35,Middle Age,146657,15113,1.4,On Leave,1,Branch A,PhD,Married
+723,Karen Garcia,12/18/2021,Finance,Analyst,Non-Binary,31,Middle Age,79748,5145,1.7,Terminated,3,Headquarters,Bachelor,Widowed
+724,Joseph Hernandez,6/18/2021,Operations,Engineer,Male,56,Experienced,67952,3775,2.1,On Leave,5,Headquarters,Associate,Single
+725,Charles Davis,1/8/2020,Operations,Coordinator,Female,46,Middle Age,104693,14193,4.5,On Leave,4,Branch A,High School,Widowed
+726,Susan Brown,11/2/2020,Sales,Engineer,Non-Binary,24,Young,55341,13851,2.9,Active,2,Branch A,Associate,Single
+727,Jennifer Miller,2/28/2022,HR,Manager,Male,59,Experienced,72663,14070,4.2,Terminated,7,Remote,PhD,Divorced
+728,Jennifer Williams,12/9/2016,Sales,Manager,Non-Binary,38,Middle Age,143833,4970,3,Active,6,Remote,High School,Single
+729,Sarah Taylor,12/31/2021,Marketing,Specialist,Non-Binary,33,Middle Age,120898,15119,1.4,Terminated,2,Remote,Associate,Single
+730,John Brown,12/8/2019,IT,Specialist,Non-Binary,45,Middle Age,77016,5331,5,Active,5,Branch A,Associate,Divorced
+731,Sarah Thomas,4/8/2020,Operations,Coordinator,Non-Binary,50,Middle Age,65208,11295,3.9,On Leave,3,Branch B,Master,Single
+732,Susan Jackson,1/29/2020,Marketing,Analyst,Male,64,Experienced,31699,2942,4.3,Active,4,Branch A,PhD,Widowed
+733,Karen Wilson,1/14/2020,Marketing,Engineer,Female,46,Middle Age,56898,17575,1.6,Terminated,4,Branch A,Master,Married
+734,David Gonzalez,6/15/2020,Finance,Coordinator,Male,57,Experienced,121170,14404,2.3,Terminated,6,Remote,High School,Married
+735,Jennifer Gonzalez,3/12/2015,IT,Specialist,Male,47,Middle Age,123671,1861,3.8,On Leave,4,Branch A,Master,Widowed
+736,Joseph Smith,8/19/2023,Marketing,Engineer,Male,59,Experienced,117703,10275,3.7,Terminated,2,Headquarters,PhD,Divorced
+737,Sarah Taylor,7/4/2021,Marketing,Specialist,Female,22,Young,40109,18033,1.7,Active,9,Branch A,Bachelor,Single
+738,Jennifer Smith,1/13/2015,IT,Engineer,Non-Binary,41,Middle Age,91209,5134,2.5,On Leave,4,Branch A,Bachelor,Widowed
+739,Linda Wilson,1/24/2020,IT,Analyst,Non-Binary,49,Middle Age,38067,12803,2.9,Terminated,6,Branch A,High School,Married
+740,Patricia Hernandez,6/1/2016,Marketing,Coordinator,Non-Binary,37,Middle Age,134950,16408,4.2,Terminated,4,Branch A,Bachelor,Married
+741,Elizabeth Brown,3/23/2019,IT,Engineer,Female,38,Middle Age,105687,18420,3.3,Active,4,Branch B,Master,Widowed
+742,William Taylor,7/8/2022,Marketing,Manager,Non-Binary,61,Experienced,58532,17351,2,Active,8,Branch A,High School,Married
+743,Charles Hernandez,6/9/2015,Marketing,Manager,Female,49,Middle Age,99731,5131,2.7,On Leave,2,Headquarters,PhD,Widowed
+744,Christopher Jackson,8/16/2023,Finance,Engineer,Non-Binary,33,Middle Age,103672,19532,1.9,Terminated,5,Headquarters,High School,Married
+745,Susan Williams,2/17/2020,HR,Engineer,Non-Binary,48,Middle Age,112320,13057,4.3,Active,0,Branch A,High School,Widowed
+746,Jennifer Williams,12/8/2021,Marketing,Engineer,Male,63,Experienced,79426,12349,3,On Leave,9,Remote,Associate,Single
+747,James Garcia,1/14/2016,Sales,Manager,Female,51,Experienced,43587,12486,3.9,Terminated,4,Branch B,Associate,Single
+748,William Johnson,3/4/2020,Operations,Manager,Male,62,Experienced,41260,6457,2.2,Terminated,7,Branch A,High School,Single
+749,John Thomas,11/21/2021,HR,Engineer,Male,55,Experienced,42174,7079,1.7,On Leave,4,Branch A,Bachelor,Single
+750,Mary Jackson,9/29/2017,HR,Specialist,Male,58,Experienced,57831,13453,3.3,On Leave,8,Branch A,Associate,Married
+751,Linda Anderson,3/10/2022,HR,Specialist,Female,27,Young,36856,19814,2.4,Active,5,Remote,PhD,Divorced
+752,John Williams,8/12/2018,Finance,Analyst,Female,28,Young,87170,19263,2.1,Terminated,7,Remote,Master,Widowed
+753,Barbara Rodriguez,5/18/2020,Marketing,Coordinator,Non-Binary,53,Experienced,107286,13158,1.3,Terminated,9,Remote,Associate,Divorced
+754,Joseph Martin,11/21/2016,Finance,Specialist,Male,53,Experienced,75422,16735,4.8,Terminated,7,Branch B,High School,Married
+755,Elizabeth Hernandez,10/19/2019,Marketing,Manager,Non-Binary,46,Middle Age,72964,16830,2.6,On Leave,2,Headquarters,Bachelor,Married
+756,Christopher Rodriguez,7/6/2022,Finance,Specialist,Male,54,Experienced,74535,16125,1.8,Active,6,Branch B,Master,Divorced
+757,Robert Rodriguez,10/21/2017,Finance,Analyst,Female,28,Young,111492,12905,4.1,Terminated,6,Remote,Associate,Divorced
+758,Joseph Garcia,5/9/2015,Operations,Analyst,Female,33,Middle Age,124268,13298,4.8,On Leave,9,Headquarters,Bachelor,Married
+759,Susan Martinez,8/10/2021,Sales,Coordinator,Female,37,Middle Age,76190,3011,4.6,Terminated,5,Headquarters,Bachelor,Married
+760,Charles Davis,11/14/2022,Finance,Specialist,Male,37,Middle Age,121131,4373,2.1,Active,6,Remote,Bachelor,Widowed
+761,Barbara Wilson,11/10/2020,Operations,Manager,Female,64,Experienced,32094,11335,4.7,Terminated,1,Remote,High School,Single
+762,John Garcia,11/10/2019,IT,Manager,Male,57,Experienced,46568,11692,2.9,Active,8,Branch B,PhD,Single
+763,Sarah Hernandez,3/29/2020,Sales,Engineer,Non-Binary,34,Middle Age,83979,15527,3.1,Active,9,Remote,Bachelor,Widowed
+764,Jessica Rodriguez,9/4/2023,Finance,Manager,Male,28,Young,65570,13773,1.5,Terminated,9,Headquarters,Master,Divorced
+765,Barbara Martin,11/22/2020,HR,Coordinator,Non-Binary,57,Experienced,119262,2289,4.2,Terminated,0,Branch A,Associate,Married
+766,David Anderson,6/12/2023,IT,Coordinator,Male,30,Young,109301,2447,1.4,Active,0,Remote,Master,Divorced
+767,David Martin,6/6/2023,IT,Manager,Non-Binary,53,Experienced,100834,15139,4.3,On Leave,2,Remote,High School,Single
+768,Karen Hernandez,2/6/2018,Operations,Manager,Female,32,Middle Age,80645,14757,1.9,Active,2,Branch B,High School,Single
+769,Susan Anderson,12/3/2022,IT,Engineer,Non-Binary,29,Young,68216,6462,4.9,Terminated,0,Branch B,Master,Divorced
+770,John Wilson,2/17/2015,Sales,Manager,Female,54,Experienced,127797,8657,2.8,Terminated,6,Remote,PhD,Single
+771,Thomas Anderson,7/18/2019,Finance,Engineer,Female,44,Middle Age,127214,5920,1.2,On Leave,3,Headquarters,High School,Married
+772,Susan Jones,8/19/2020,Finance,Engineer,Non-Binary,46,Middle Age,132040,11345,1.6,Active,9,Headquarters,High School,Widowed
+773,William Anderson,6/20/2015,HR,Manager,Male,29,Young,130843,9417,4.3,Active,1,Branch A,Master,Divorced
+774,Joseph Hernandez,3/12/2016,Operations,Analyst,Male,43,Middle Age,83132,18160,2.3,Active,9,Remote,High School,Married
+775,James Moore,12/14/2018,HR,Analyst,Male,25,Young,83206,6208,3.9,Terminated,4,Branch B,PhD,Married
+776,William Martin,9/10/2022,IT,Engineer,Male,61,Experienced,76418,1687,3.9,Active,5,Headquarters,PhD,Single
+777,Mary Garcia,9/12/2019,HR,Manager,Male,24,Young,56345,17913,1.9,On Leave,8,Branch A,PhD,Married
+778,Linda Garcia,3/26/2023,Sales,Analyst,Female,50,Middle Age,73033,14223,4.6,Terminated,3,Remote,Associate,Divorced
+779,Mary Wilson,10/23/2020,Finance,Manager,Male,62,Experienced,80009,9080,3.9,Terminated,1,Headquarters,PhD,Married
+780,Jennifer Thomas,8/3/2019,IT,Manager,Female,50,Middle Age,80488,19537,1,Active,4,Remote,PhD,Widowed
+781,Patricia Jones,10/1/2023,HR,Manager,Female,55,Experienced,45723,10486,1.9,On Leave,2,Remote,Associate,Married
+782,Michael Brown,5/15/2023,Operations,Specialist,Female,55,Experienced,89305,7094,4.6,Terminated,1,Headquarters,Bachelor,Married
+783,Susan Taylor,11/10/2021,Sales,Manager,Non-Binary,49,Middle Age,133763,8692,2.3,Terminated,0,Headquarters,High School,Widowed
+784,Sarah Davis,9/8/2020,Sales,Specialist,Non-Binary,34,Middle Age,64047,12088,3.6,Active,9,Headquarters,PhD,Married
+785,Barbara Garcia,1/10/2023,HR,Engineer,Female,36,Middle Age,38792,4103,3.7,Active,1,Remote,High School,Married
+786,James Miller,11/25/2023,Finance,Analyst,Non-Binary,44,Middle Age,102595,3440,4.3,On Leave,5,Remote,Master,Single
+787,Karen Anderson,10/26/2016,HR,Analyst,Male,47,Middle Age,88516,8124,1.4,Active,7,Branch A,High School,Divorced
+788,William Thomas,4/11/2017,IT,Analyst,Male,25,Young,53638,18228,3.8,On Leave,2,Branch B,Associate,Single
+789,John Martin,3/21/2018,HR,Analyst,Female,47,Middle Age,135780,15031,2.1,Terminated,8,Remote,High School,Divorced
+790,Mary Moore,9/23/2020,Sales,Analyst,Male,61,Experienced,72580,15536,1.6,On Leave,8,Branch B,High School,Widowed
+791,Michael Rodriguez,1/11/2022,HR,Analyst,Female,30,Young,97541,1446,1.9,On Leave,1,Headquarters,High School,Widowed
+792,Michael Martinez,3/16/2022,Finance,Analyst,Female,26,Young,64866,4915,2.5,On Leave,7,Remote,Bachelor,Widowed
+793,Patricia Brown,12/27/2016,Operations,Engineer,Male,53,Experienced,108532,16787,2.7,Terminated,9,Branch A,Bachelor,Divorced
+794,John Jackson,10/13/2018,Marketing,Manager,Non-Binary,41,Middle Age,124648,18618,3.6,Active,4,Branch A,Master,Divorced
+795,Linda Taylor,4/13/2017,HR,Coordinator,Male,32,Middle Age,70350,7587,3.8,Terminated,3,Branch B,Associate,Divorced
+796,Barbara Davis,5/12/2015,Finance,Specialist,Male,36,Middle Age,133491,1226,3.7,Active,9,Headquarters,High School,Widowed
+797,Susan Gonzalez,4/15/2019,Finance,Coordinator,Female,53,Experienced,114581,12151,3.3,On Leave,4,Branch B,High School,Divorced
+798,Robert Davis,3/3/2023,Operations,Coordinator,Female,49,Middle Age,132847,6558,3.2,On Leave,3,Headquarters,High School,Married
+799,Jennifer Hernandez,1/1/2019,Sales,Manager,Female,43,Middle Age,107793,12971,1.7,On Leave,7,Branch A,High School,Single
+800,Robert Martinez,7/23/2020,Finance,Manager,Female,62,Experienced,69357,1186,3.4,On Leave,3,Branch B,Bachelor,Widowed
+801,Karen Anderson,6/14/2015,Finance,Manager,Non-Binary,38,Middle Age,85824,15680,3.6,On Leave,9,Branch A,Master,Single
+802,Charles Garcia,7/7/2018,Finance,Analyst,Non-Binary,47,Middle Age,104058,15559,4.3,Active,5,Branch A,PhD,Married
+803,Robert Brown,11/7/2021,Finance,Engineer,Non-Binary,28,Young,67079,12069,4.1,Active,1,Headquarters,Associate,Divorced
+804,Robert Thomas,4/16/2015,IT,Analyst,Female,63,Experienced,40230,3535,1.2,On Leave,4,Branch B,High School,Single
+805,Karen Taylor,2/5/2021,IT,Engineer,Female,47,Middle Age,31953,2932,3.9,Terminated,5,Branch B,Master,Married
+806,Linda Moore,7/27/2020,Sales,Engineer,Female,46,Middle Age,123876,3032,3.6,Terminated,4,Branch A,PhD,Married
+807,Charles Rodriguez,9/28/2018,HR,Coordinator,Non-Binary,31,Middle Age,44013,2252,3.5,On Leave,1,Branch A,Master,Single
+808,Susan Miller,9/30/2023,Finance,Coordinator,Female,40,Middle Age,131691,6509,3.8,Active,6,Headquarters,Bachelor,Widowed
+809,Barbara Lopez,8/18/2023,Operations,Engineer,Male,32,Middle Age,81557,6074,3.5,Terminated,3,Remote,PhD,Single
+810,David Brown,4/22/2020,HR,Engineer,Male,34,Middle Age,131627,14900,2.3,Terminated,7,Remote,Master,Widowed
+811,Jessica Taylor,11/8/2016,Operations,Analyst,Female,29,Young,119150,15523,1.9,Terminated,6,Branch A,Bachelor,Divorced
+812,Susan Jackson,3/7/2017,HR,Analyst,Male,61,Experienced,95138,2881,1.1,On Leave,6,Remote,Master,Widowed
+813,David Martinez,4/4/2022,Sales,Coordinator,Male,25,Young,119197,1269,4.6,Terminated,8,Remote,Master,Divorced
+814,Charles Anderson,1/5/2017,Finance,Manager,Non-Binary,52,Experienced,111091,2630,4.5,Terminated,0,Remote,PhD,Single
+815,Mary Moore,12/18/2022,Finance,Engineer,Female,49,Middle Age,90984,18958,4.8,Terminated,9,Remote,Bachelor,Divorced
+816,David Garcia,8/14/2023,Marketing,Analyst,Female,32,Middle Age,107134,14383,3.6,Terminated,5,Branch A,High School,Married
+817,Karen Williams,4/21/2019,Operations,Coordinator,Non-Binary,64,Experienced,89190,17152,2.6,Active,5,Remote,Associate,Divorced
+818,Robert Johnson,4/15/2015,HR,Analyst,Male,22,Young,65600,12084,3.6,On Leave,5,Remote,PhD,Widowed
+819,Karen Davis,4/26/2018,HR,Engineer,Male,59,Experienced,119347,2695,2.9,On Leave,5,Headquarters,Bachelor,Widowed
+820,Jennifer Anderson,7/25/2017,IT,Engineer,Female,45,Middle Age,147810,15821,1.5,Active,9,Branch A,Master,Widowed
+821,Barbara Taylor,7/12/2021,Marketing,Specialist,Male,52,Experienced,120622,4262,4,Active,6,Branch B,Bachelor,Divorced
+822,David Johnson,5/30/2017,IT,Manager,Non-Binary,62,Experienced,123507,2445,1.2,On Leave,9,Branch B,Associate,Widowed
+823,Thomas Gonzalez,8/20/2016,IT,Specialist,Non-Binary,47,Middle Age,104757,17436,3.6,Terminated,5,Headquarters,Associate,Widowed
+824,Charles Jackson,12/19/2016,IT,Coordinator,Female,26,Young,64162,10949,4.4,Terminated,0,Headquarters,High School,Married
+825,Michael Taylor,9/18/2019,Operations,Analyst,Non-Binary,41,Middle Age,82256,19050,4.1,On Leave,2,Branch A,High School,Divorced
+826,Thomas Brown,1/4/2015,Operations,Coordinator,Non-Binary,62,Experienced,49394,7901,1.5,Terminated,1,Branch B,Associate,Married
+827,David Johnson,4/13/2023,Sales,Engineer,Female,32,Middle Age,57937,1719,2.4,Active,5,Remote,PhD,Widowed
+828,Christopher Jackson,12/7/2022,Sales,Specialist,Non-Binary,54,Experienced,73683,9597,3.3,Terminated,7,Headquarters,PhD,Widowed
+829,William Jackson,1/25/2022,IT,Specialist,Non-Binary,59,Experienced,116405,7855,4.4,Terminated,2,Branch B,Master,Widowed
+830,William Rodriguez,11/21/2015,Marketing,Specialist,Non-Binary,48,Middle Age,112851,19678,3.5,Terminated,9,Branch A,High School,Divorced
+831,Sarah Gonzalez,1/8/2020,HR,Coordinator,Male,55,Experienced,76237,9263,1.7,On Leave,7,Remote,Master,Single
+832,Sarah Taylor,10/8/2020,Operations,Engineer,Female,36,Middle Age,95585,15520,4,Active,7,Branch A,High School,Widowed
+833,Barbara Wilson,3/14/2015,Marketing,Analyst,Female,53,Experienced,113370,12874,1,Terminated,4,Headquarters,Associate,Widowed
+834,Linda Rodriguez,11/26/2018,Finance,Analyst,Female,42,Middle Age,101464,15079,3.1,On Leave,7,Branch B,PhD,Widowed
+835,Robert Martin,4/19/2017,Operations,Coordinator,Male,26,Young,120855,18082,1.1,Terminated,5,Branch B,PhD,Widowed
+836,John Smith,1/21/2022,Operations,Specialist,Male,27,Young,115409,8243,1.7,Active,4,Branch B,Associate,Divorced
+837,Robert Martin,10/22/2016,Sales,Manager,Female,59,Experienced,142274,10018,2.1,Terminated,8,Branch B,Master,Single
+838,Linda Martinez,9/22/2018,HR,Coordinator,Male,43,Middle Age,114036,17732,4.5,Active,6,Remote,Master,Single
+839,Linda Gonzalez,3/18/2022,HR,Coordinator,Female,39,Middle Age,130271,13100,1.4,Terminated,7,Remote,Bachelor,Single
+840,Michael Brown,11/28/2019,Finance,Engineer,Male,35,Middle Age,58581,17691,3.2,Active,0,Branch A,High School,Widowed
+841,Susan Johnson,7/23/2016,Finance,Analyst,Non-Binary,31,Middle Age,149178,5820,2.3,Terminated,1,Remote,Master,Widowed
+842,Patricia Lopez,1/16/2022,Operations,Coordinator,Non-Binary,34,Middle Age,82563,12001,3,Active,7,Headquarters,Associate,Single
+843,Joseph Brown,9/12/2021,IT,Coordinator,Female,52,Experienced,64811,14907,2,Terminated,8,Headquarters,Master,Single
+844,William Moore,3/20/2020,Sales,Specialist,Male,51,Experienced,83902,12669,4.5,Terminated,3,Branch B,PhD,Widowed
+845,Elizabeth Thomas,1/6/2019,Sales,Specialist,Male,24,Young,43196,16916,1.2,On Leave,9,Headquarters,High School,Widowed
+846,Patricia Rodriguez,12/9/2023,Operations,Manager,Non-Binary,51,Experienced,31184,11878,1.6,On Leave,9,Branch A,Bachelor,Married
+847,Mary Brown,10/26/2018,Marketing,Engineer,Non-Binary,27,Young,78951,3985,3.9,Active,8,Remote,High School,Married
+848,Joseph Miller,6/14/2023,IT,Manager,Male,50,Middle Age,149517,9112,3.7,Terminated,3,Remote,PhD,Married
+849,Karen Hernandez,5/15/2021,Operations,Specialist,Male,29,Young,127063,9467,1.3,Active,9,Remote,PhD,Single
+850,Christopher Jones,1/8/2019,IT,Analyst,Male,64,Experienced,46655,19931,3,On Leave,9,Headquarters,PhD,Divorced
+851,Sarah Hernandez,5/23/2018,IT,Specialist,Male,54,Experienced,78874,1336,4,Active,9,Remote,PhD,Widowed
+852,Robert Williams,5/19/2021,IT,Engineer,Male,38,Middle Age,124892,11165,4.7,Active,8,Branch B,Associate,Married
+853,Mary Williams,7/12/2022,Operations,Specialist,Male,32,Middle Age,112372,13768,1.2,On Leave,6,Branch B,Bachelor,Divorced
+854,Karen Thomas,12/5/2017,Sales,Engineer,Female,34,Middle Age,118847,4968,2.5,Terminated,1,Branch B,PhD,Widowed
+855,John Thomas,8/26/2022,Sales,Engineer,Male,32,Middle Age,127121,1910,3.3,Active,8,Headquarters,PhD,Divorced
+856,Robert Miller,3/22/2023,IT,Engineer,Non-Binary,52,Experienced,87306,19380,4,On Leave,3,Remote,Master,Single
+857,Jennifer Martin,10/20/2015,Marketing,Engineer,Female,49,Middle Age,94792,16632,1.1,Terminated,7,Headquarters,Bachelor,Single
+858,Sarah Hernandez,10/15/2019,HR,Engineer,Male,27,Young,127664,17279,1.9,On Leave,6,Remote,High School,Single
+859,Patricia Lopez,2/16/2023,Operations,Analyst,Non-Binary,62,Experienced,34677,4129,2.2,Active,6,Branch A,Bachelor,Married
+860,Christopher Moore,10/31/2018,HR,Manager,Female,37,Middle Age,128476,6447,2,Terminated,7,Branch A,Bachelor,Widowed
+861,Patricia Moore,6/26/2020,Marketing,Coordinator,Non-Binary,25,Young,61513,7129,3.1,Terminated,0,Headquarters,Bachelor,Single
+862,Jennifer Wilson,2/15/2018,Operations,Manager,Male,56,Experienced,60929,6850,2.1,On Leave,4,Branch B,PhD,Married
+863,Sarah Brown,1/6/2020,IT,Engineer,Male,47,Middle Age,101382,8446,3.9,On Leave,1,Headquarters,PhD,Married
+864,Patricia Williams,6/25/2017,Sales,Analyst,Male,33,Middle Age,98693,12949,2.8,On Leave,1,Branch B,Associate,Married
+865,David Hernandez,3/14/2015,HR,Specialist,Male,32,Middle Age,52072,9519,1.7,Terminated,0,Remote,High School,Married
+866,Barbara Rodriguez,7/24/2018,Finance,Analyst,Female,58,Experienced,68032,1314,1.5,Terminated,4,Branch B,Master,Single
+867,Michael Jones,7/10/2022,Finance,Engineer,Female,46,Middle Age,90443,12737,1.3,Active,1,Branch B,Bachelor,Married
+868,Patricia Smith,11/26/2016,Marketing,Analyst,Non-Binary,39,Middle Age,58140,2134,5,Terminated,3,Remote,High School,Single
+869,Linda Garcia,8/13/2016,IT,Analyst,Male,40,Middle Age,84124,11938,4.8,Active,2,Branch A,High School,Single
+870,Elizabeth Thomas,5/24/2023,HR,Engineer,Non-Binary,44,Middle Age,67536,16588,1.2,On Leave,2,Remote,Associate,Married
+871,Susan Moore,10/7/2017,IT,Analyst,Female,59,Experienced,103776,9347,1.6,On Leave,1,Headquarters,Master,Single
+872,Charles Jackson,11/12/2016,HR,Coordinator,Male,39,Middle Age,74273,6592,2.8,Terminated,5,Headquarters,Bachelor,Widowed
+873,Mary Williams,7/18/2019,Marketing,Coordinator,Male,47,Middle Age,114167,19108,1.4,On Leave,1,Headquarters,Master,Widowed
+874,Christopher Jackson,3/18/2018,Marketing,Analyst,Female,27,Young,95209,18270,1.7,On Leave,7,Headquarters,Associate,Divorced
+875,David Johnson,1/7/2015,Finance,Specialist,Female,25,Young,31024,11997,2.3,Terminated,7,Headquarters,PhD,Widowed
+876,Barbara Jones,12/23/2021,IT,Engineer,Female,50,Middle Age,66334,1721,2.2,Active,4,Branch A,High School,Single
+877,Elizabeth Davis,8/14/2018,Operations,Coordinator,Female,55,Experienced,82241,10104,2.1,Terminated,9,Branch A,Bachelor,Single
+878,Sarah Martin,11/20/2018,Finance,Specialist,Female,38,Middle Age,103569,1870,1.5,Active,6,Branch B,PhD,Widowed
+879,Robert Johnson,9/12/2017,IT,Analyst,Male,64,Experienced,83623,7751,3.5,Terminated,3,Headquarters,Associate,Married
+880,Jessica Williams,12/31/2021,Finance,Specialist,Female,64,Experienced,54588,17881,1.5,Terminated,0,Remote,Master,Married
+881,Barbara Davis,8/3/2020,Operations,Manager,Male,37,Middle Age,61826,2756,1.1,On Leave,1,Headquarters,High School,Single
+882,Thomas Jones,3/26/2016,Sales,Coordinator,Male,23,Young,59201,2117,1.5,Terminated,9,Branch A,Bachelor,Married
+883,Elizabeth Miller,8/17/2016,Sales,Analyst,Female,55,Experienced,126347,12601,1.7,Terminated,9,Headquarters,PhD,Divorced
+884,Sarah Rodriguez,7/2/2021,Sales,Engineer,Female,29,Young,123545,3828,3.2,Active,3,Branch A,PhD,Divorced
+885,Susan Brown,8/13/2023,Sales,Analyst,Male,34,Middle Age,31791,15996,3.5,On Leave,0,Branch B,High School,Widowed
+886,James Jones,12/29/2018,HR,Engineer,Female,63,Experienced,112902,19031,2.6,Active,7,Branch B,Master,Widowed
+887,Patricia Jackson,11/23/2021,Sales,Analyst,Female,29,Young,57028,14878,2.9,Active,8,Branch B,Associate,Married
+888,Robert Davis,11/6/2016,Operations,Specialist,Female,51,Experienced,89502,7992,1.1,On Leave,3,Branch A,Master,Single
+889,Sarah Jones,10/10/2021,Marketing,Specialist,Non-Binary,53,Experienced,49728,14778,2.9,On Leave,9,Headquarters,Master,Widowed
+890,Patricia Garcia,1/2/2015,Marketing,Specialist,Male,57,Experienced,84078,7771,2.4,On Leave,2,Headquarters,Master,Divorced
+891,John Jones,4/4/2017,HR,Manager,Non-Binary,51,Experienced,109312,17526,4.8,Terminated,1,Remote,High School,Widowed
+892,Christopher Rodriguez,6/15/2021,Sales,Engineer,Female,22,Young,117528,4435,3,On Leave,4,Branch A,High School,Widowed
+893,Jessica Hernandez,7/23/2023,Sales,Specialist,Non-Binary,64,Experienced,89734,7622,2.4,On Leave,2,Remote,Associate,Divorced
+894,David Williams,8/22/2022,Sales,Manager,Female,60,Experienced,103631,13852,2.1,On Leave,9,Branch B,Master,Single
+895,Jessica Smith,6/5/2022,Finance,Engineer,Non-Binary,38,Middle Age,50017,15806,2.1,Active,6,Headquarters,High School,Widowed
+896,William Anderson,2/19/2022,IT,Analyst,Female,41,Middle Age,72072,11623,4.8,Active,5,Branch A,Associate,Widowed
+897,Christopher Hernandez,1/23/2015,Finance,Manager,Non-Binary,45,Middle Age,117982,2848,3.6,Terminated,0,Remote,Associate,Widowed
+898,Sarah Thomas,10/5/2021,IT,Coordinator,Non-Binary,43,Middle Age,142859,3696,2,Active,7,Remote,Master,Married
+899,Elizabeth Martin,6/7/2022,Sales,Manager,Non-Binary,50,Middle Age,31328,2717,1.8,Terminated,1,Remote,Bachelor,Widowed
+900,Christopher Taylor,3/29/2019,Sales,Manager,Male,43,Middle Age,89036,10259,4.6,Active,4,Headquarters,Master,Divorced
+901,David Thomas,11/27/2019,Finance,Engineer,Non-Binary,30,Young,111750,3786,3.5,On Leave,8,Headquarters,Bachelor,Single
+902,Christopher Hernandez,9/10/2022,Finance,Analyst,Male,58,Experienced,74912,15154,1.1,Active,7,Headquarters,Associate,Single
+903,Mary Miller,9/11/2022,IT,Coordinator,Female,31,Middle Age,46603,14409,4.8,Terminated,1,Branch A,High School,Divorced
+904,Robert Davis,12/16/2021,Marketing,Specialist,Non-Binary,57,Experienced,135057,4791,4.5,Active,8,Headquarters,PhD,Married
+905,Linda Moore,11/21/2021,IT,Specialist,Female,58,Experienced,114660,4871,2.3,On Leave,4,Branch A,Associate,Divorced
+906,Patricia Miller,10/21/2020,Finance,Manager,Female,49,Middle Age,96081,2806,4.6,Terminated,9,Remote,High School,Single
+907,Christopher Smith,2/23/2021,Operations,Engineer,Non-Binary,49,Middle Age,90387,18888,1.9,On Leave,5,Remote,Associate,Divorced
+908,Karen Anderson,11/10/2020,Finance,Engineer,Male,63,Experienced,129454,14304,1.6,On Leave,2,Branch B,Master,Married
+909,Susan Brown,7/1/2017,Operations,Specialist,Non-Binary,64,Experienced,79637,19074,1.8,Terminated,2,Headquarters,Bachelor,Single
+910,Joseph Smith,6/14/2020,HR,Coordinator,Female,42,Middle Age,33761,16549,4.8,On Leave,9,Remote,Associate,Married
+911,Joseph Miller,6/16/2021,Finance,Analyst,Female,45,Middle Age,80333,4303,1.3,On Leave,7,Headquarters,High School,Divorced
+912,Robert Garcia,1/2/2017,HR,Coordinator,Non-Binary,63,Experienced,49276,17061,5,Active,9,Branch A,Master,Widowed
+913,Susan Gonzalez,8/13/2018,Marketing,Analyst,Male,61,Experienced,112641,16198,4.1,On Leave,9,Remote,PhD,Divorced
+914,Susan Lopez,11/28/2022,IT,Specialist,Male,23,Young,78070,18888,2.3,On Leave,1,Headquarters,Master,Married
+915,Michael Garcia,1/18/2019,Operations,Analyst,Female,29,Young,92095,11655,4.8,On Leave,1,Remote,Bachelor,Divorced
+916,Sarah Miller,7/28/2019,IT,Engineer,Female,48,Middle Age,71928,9924,2.4,On Leave,4,Remote,Master,Widowed
+917,James Lopez,11/27/2015,HR,Manager,Male,43,Middle Age,62479,10940,3,Terminated,5,Headquarters,PhD,Married
+918,Patricia Brown,4/8/2016,Operations,Manager,Non-Binary,58,Experienced,116197,4924,4.2,Active,1,Remote,High School,Divorced
+919,Patricia Thomas,9/6/2017,IT,Specialist,Female,48,Middle Age,106090,10783,2.5,On Leave,4,Remote,Associate,Married
+920,John Williams,9/6/2018,Finance,Engineer,Male,50,Middle Age,85920,5485,3.4,On Leave,6,Remote,Bachelor,Married
+921,Christopher Jackson,12/22/2016,Sales,Coordinator,Female,24,Young,35556,13629,2.1,Terminated,9,Remote,PhD,Single
+922,Joseph Thomas,12/17/2015,HR,Engineer,Non-Binary,34,Middle Age,61261,14233,4.5,On Leave,9,Branch A,Bachelor,Single
+923,Linda Garcia,2/10/2015,IT,Manager,Male,31,Middle Age,93585,13901,4.2,Terminated,7,Remote,Master,Married
+924,Michael Moore,4/20/2015,HR,Manager,Female,57,Experienced,104436,1191,4.8,Active,6,Branch B,Bachelor,Divorced
+925,Michael Martin,3/29/2021,HR,Engineer,Non-Binary,30,Young,52090,5917,2,Active,7,Remote,PhD,Divorced
+926,Sarah Rodriguez,11/3/2016,Operations,Engineer,Female,48,Middle Age,80926,6831,3.5,On Leave,8,Headquarters,Associate,Divorced
+927,James Johnson,10/27/2022,Operations,Manager,Non-Binary,55,Experienced,131292,11160,4.6,On Leave,4,Branch B,Associate,Widowed
+928,John Martinez,3/10/2019,Sales,Coordinator,Non-Binary,22,Young,85010,14682,3.8,On Leave,4,Branch A,Bachelor,Married
+929,Joseph Thomas,12/24/2023,Finance,Specialist,Male,53,Experienced,143876,13391,2.3,Terminated,9,Branch B,High School,Married
+930,William Davis,4/23/2023,HR,Specialist,Non-Binary,46,Middle Age,35635,2874,4.9,On Leave,3,Branch B,Bachelor,Widowed
+931,James Taylor,8/5/2019,IT,Engineer,Female,50,Middle Age,55797,10062,2.2,On Leave,8,Branch B,Master,Married
+932,Jennifer Anderson,12/16/2022,Marketing,Specialist,Non-Binary,28,Young,42976,5763,3.8,Active,4,Headquarters,Associate,Married
+933,Barbara Brown,9/26/2015,HR,Manager,Non-Binary,24,Young,146324,11234,5,On Leave,1,Headquarters,Associate,Widowed
+934,Susan Moore,8/15/2022,HR,Manager,Male,41,Middle Age,32554,10221,1.4,Active,9,Headquarters,Associate,Single
+935,David Taylor,2/22/2019,Sales,Engineer,Non-Binary,41,Middle Age,125833,12410,1.2,On Leave,7,Branch A,High School,Married
+936,Mary Miller,5/25/2023,Finance,Engineer,Non-Binary,51,Experienced,123495,15519,2.7,Active,6,Headquarters,High School,Widowed
+937,Michael Johnson,2/26/2020,Marketing,Engineer,Female,56,Experienced,35720,2051,4.2,On Leave,7,Headquarters,PhD,Divorced
+938,Susan Gonzalez,11/3/2016,Operations,Coordinator,Male,56,Experienced,136779,13225,3.6,Active,2,Branch B,Bachelor,Single
+939,Thomas Anderson,4/24/2017,Operations,Specialist,Male,60,Experienced,69170,10765,3.8,Terminated,3,Headquarters,Bachelor,Divorced
+940,Karen Davis,12/11/2016,IT,Engineer,Male,48,Middle Age,141780,12382,1.1,Active,4,Remote,Master,Married
+941,Jessica Taylor,3/5/2016,Marketing,Analyst,Non-Binary,47,Middle Age,59066,13580,4.6,Active,5,Headquarters,Associate,Single
+942,Thomas Davis,1/27/2016,Operations,Analyst,Male,35,Middle Age,125464,12989,3.7,Active,0,Branch A,High School,Widowed
+943,Jessica Martin,6/15/2022,IT,Manager,Non-Binary,38,Middle Age,61201,12939,1.7,On Leave,3,Branch A,Master,Married
+944,Barbara Jackson,7/3/2021,Finance,Specialist,Non-Binary,39,Middle Age,136422,19489,4,On Leave,9,Remote,Master,Widowed
+945,James Rodriguez,12/25/2021,IT,Engineer,Female,50,Middle Age,48240,1307,3,On Leave,4,Branch A,High School,Single
+946,Jessica Garcia,5/31/2020,Operations,Analyst,Female,41,Middle Age,40414,4359,3.6,Terminated,6,Branch A,Bachelor,Divorced
+947,Jessica Lopez,5/29/2019,Sales,Specialist,Female,48,Middle Age,59149,4176,4.1,Terminated,4,Branch B,Associate,Married
+948,Patricia Rodriguez,1/14/2016,Sales,Manager,Female,39,Middle Age,128396,2251,5,Active,0,Remote,Bachelor,Married
+949,Joseph Martinez,11/23/2017,Sales,Coordinator,Female,25,Young,124503,6366,1.9,Terminated,6,Branch B,Master,Widowed
+950,Sarah Moore,12/3/2018,Operations,Specialist,Non-Binary,22,Young,126959,18901,4.8,Active,7,Branch B,Associate,Single
+951,David Gonzalez,1/17/2020,Sales,Specialist,Non-Binary,22,Young,73973,7226,4.7,Active,6,Headquarters,PhD,Widowed
+952,Linda Garcia,8/13/2017,Marketing,Coordinator,Male,47,Middle Age,102970,15330,3.5,Active,3,Remote,Master,Single
+953,Karen Jackson,1/6/2017,Finance,Specialist,Non-Binary,41,Middle Age,99033,5891,2.1,Terminated,7,Headquarters,Bachelor,Married
+954,Barbara Davis,3/12/2021,IT,Manager,Non-Binary,44,Middle Age,113995,5992,3.8,On Leave,4,Headquarters,Bachelor,Single
+955,John Thomas,10/30/2016,IT,Manager,Female,31,Middle Age,109293,2961,4.5,Terminated,9,Branch B,Bachelor,Married
+956,Michael Jones,1/18/2017,Operations,Coordinator,Non-Binary,32,Middle Age,143406,13497,3.8,Active,8,Branch A,High School,Single
+957,Patricia Thomas,7/5/2021,Sales,Engineer,Female,62,Experienced,127924,11848,1.2,Active,9,Remote,Master,Divorced
+958,Charles Garcia,6/21/2020,Sales,Analyst,Male,62,Experienced,124598,14255,4,Terminated,4,Branch A,Associate,Single
+959,Jessica Johnson,5/4/2020,HR,Engineer,Male,26,Young,71219,5567,2.4,Active,0,Branch B,Bachelor,Divorced
+960,John Jackson,7/19/2018,Finance,Specialist,Non-Binary,22,Young,132128,17079,2,Active,8,Branch B,Bachelor,Single
+961,Sarah Thomas,5/19/2016,Marketing,Analyst,Male,38,Middle Age,56716,7513,2.7,Terminated,4,Branch B,High School,Single
+962,James Taylor,6/18/2023,IT,Coordinator,Non-Binary,43,Middle Age,115766,16235,4,Terminated,5,Branch B,Associate,Widowed
+963,David Miller,4/27/2017,HR,Coordinator,Male,55,Experienced,147057,12755,4.6,Terminated,3,Branch B,Master,Widowed
+964,Barbara Martinez,6/29/2019,HR,Analyst,Female,62,Experienced,124257,12151,1.8,Active,5,Branch B,PhD,Married
+965,John Garcia,1/15/2023,Operations,Manager,Female,50,Middle Age,90091,17567,2.7,Active,7,Branch A,High School,Widowed
+966,Linda Miller,7/8/2021,IT,Analyst,Female,25,Young,80286,4358,4.2,On Leave,2,Headquarters,Master,Single
+967,John Thomas,8/31/2021,Operations,Specialist,Female,26,Young,142961,10590,1,On Leave,4,Branch A,PhD,Widowed
+968,Jennifer Martin,2/18/2016,Marketing,Manager,Non-Binary,32,Middle Age,95038,11988,2.7,Terminated,1,Remote,Bachelor,Single
+969,Charles Garcia,6/24/2017,HR,Coordinator,Male,42,Middle Age,42704,8678,3.6,On Leave,1,Branch A,Bachelor,Divorced
+970,Charles Taylor,8/30/2023,HR,Analyst,Non-Binary,56,Experienced,92374,6698,4.8,Active,6,Branch B,Associate,Single
+971,Christopher Miller,8/22/2018,Finance,Engineer,Female,33,Middle Age,50973,2273,2.6,On Leave,9,Branch A,PhD,Married
+972,Charles Williams,8/23/2015,Marketing,Engineer,Non-Binary,47,Middle Age,56154,12241,1.6,Active,9,Headquarters,Bachelor,Divorced
+973,Patricia Rodriguez,10/2/2017,HR,Specialist,Male,40,Middle Age,139104,18480,4.3,Terminated,9,Remote,Bachelor,Married
+974,Charles Jackson,7/21/2018,Marketing,Engineer,Non-Binary,28,Young,40566,10497,4.3,Terminated,5,Branch A,Associate,Married
+975,Elizabeth Lopez,3/16/2020,IT,Analyst,Male,28,Young,137130,10107,2.6,Active,3,Headquarters,Master,Married
+976,Mary Anderson,10/16/2021,Sales,Analyst,Non-Binary,47,Middle Age,62128,12273,2.8,On Leave,4,Branch A,Bachelor,Widowed
+977,Michael Martinez,5/30/2015,HR,Engineer,Male,61,Experienced,105233,9002,1.9,Terminated,0,Remote,High School,Married
+978,Thomas Johnson,6/6/2022,Finance,Analyst,Male,26,Young,107971,5247,1.7,Terminated,6,Branch A,High School,Divorced
+979,Charles Moore,3/8/2018,IT,Specialist,Female,42,Middle Age,149240,10220,4.1,On Leave,7,Branch B,Master,Single
+980,Jennifer Anderson,12/24/2015,Marketing,Manager,Male,35,Middle Age,83396,11703,4,On Leave,8,Branch A,PhD,Married
+981,Elizabeth Brown,1/24/2018,Operations,Specialist,Female,25,Young,56969,16472,3.5,Active,7,Headquarters,Associate,Divorced
+982,William Johnson,10/27/2023,IT,Specialist,Female,44,Middle Age,75293,17654,3.7,On Leave,4,Branch A,High School,Married
+983,Sarah Davis,11/5/2022,HR,Analyst,Female,63,Experienced,92941,18570,4.7,On Leave,2,Headquarters,High School,Single
+984,William Garcia,3/16/2019,Marketing,Manager,Non-Binary,41,Middle Age,147461,13392,1.7,On Leave,9,Remote,Master,Divorced
+985,Joseph Miller,9/4/2018,Sales,Analyst,Non-Binary,36,Middle Age,57408,12956,3.2,Active,8,Branch A,PhD,Divorced
+986,John Smith,6/19/2015,IT,Coordinator,Non-Binary,50,Middle Age,121014,16641,2.8,Active,5,Remote,PhD,Single
+987,William Miller,1/27/2016,HR,Analyst,Non-Binary,29,Young,102739,14998,2.6,Terminated,4,Remote,Master,Divorced
+988,Thomas Johnson,8/1/2021,Finance,Analyst,Male,62,Experienced,116181,7305,1.6,Active,2,Branch A,High School,Single
+989,Barbara Martin,1/15/2021,Operations,Analyst,Male,40,Middle Age,96268,19782,3,Terminated,5,Headquarters,Associate,Divorced
+990,Sarah Taylor,5/7/2021,Marketing,Manager,Non-Binary,60,Experienced,91029,13721,2.8,On Leave,2,Remote,High School,Divorced
+991,Michael Williams,2/1/2017,IT,Analyst,Male,49,Middle Age,62170,7995,2,Terminated,9,Remote,PhD,Single
+992,Robert Moore,7/23/2017,IT,Manager,Male,48,Middle Age,59421,13427,3.8,Terminated,5,Branch A,High School,Single
+993,Patricia Hernandez,3/29/2022,Sales,Engineer,Female,25,Young,74117,14782,3.2,On Leave,3,Branch A,Associate,Divorced
+994,Linda Gonzalez,9/18/2023,Sales,Coordinator,Female,36,Middle Age,134615,3230,5,Terminated,1,Branch A,Bachelor,Divorced
+995,Jennifer Wilson,4/26/2018,Finance,Manager,Female,56,Experienced,109527,7511,3,Active,7,Branch A,High School,Single
+996,Robert Martinez,11/2/2016,Operations,Engineer,Female,58,Experienced,122567,17512,2.4,Active,3,Branch A,Master,Widowed
+997,Elizabeth Jackson,1/29/2017,Finance,Manager,Male,22,Young,144164,10461,4.2,Active,8,Branch B,Bachelor,Single
+998,Barbara Jackson,7/26/2017,HR,Manager,Non-Binary,24,Young,127204,5765,3.1,Active,6,Branch A,Master,Divorced
+999,Linda Hernandez,11/18/2022,HR,Coordinator,Male,45,Middle Age,79581,14272,1.3,Terminated,1,Headquarters,Master,Divorced
+1000,David Jones,4/11/2022,Finance,Specialist,Male,48,Middle Age,145062,6552,3,Terminated,3,Remote,Master,Divorced
