@@ -1,8 +1,7 @@
 # HR-Analysis-Report
 
 ## Project overview 
-This project focuses on HR Analytics, using EXCEL, SQL and Powerbi to analyse employee data and uncover key workforce trends. The goal is to provide data -driven insights into employee attrition, tenure, salary distribution, performance scores and workforce divesity. 
-By leveraging Powerbi visualization, dax Calculations,interactive dadhboard and SQL queries. This Analysis helps HR teams make informed decisions about employee retention, salary structures and workforce planning.
+This project focuses on HR Analytics, using EXCEL, SQL and Powerbi to analyse employee data and uncover key workforce trends. The goal is to provide data -driven insights into employee attrition, tenure, salary distribution, performance scores and workforce diversity. By leveraging Powerbi visualization, dax Calculations,interactive dadhboard and SQL queries. This Analysis helps HR teams make informed decisions about employee retention, salary structures and workforce planning.
 
 ## Key Objectives
 ### Total Employee
