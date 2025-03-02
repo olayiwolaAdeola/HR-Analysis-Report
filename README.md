@@ -1,9 +1,19 @@
-# HR-Analysis-Report
-
 ## Project overview 
 This project focuses on HR Analytics, using EXCEL, SQL and Powerbi to analyse employee data and uncover key workforce trends. The goal is to provide data -driven insights into employee attrition, tenure, salary distribution, performance scores and workforce diversity. By leveraging Powerbi visualization, dax Calculations,interactive dadhboard and SQL queries. This Analysis helps HR teams make informed decisions about employee retention, salary structures and workforce planning.
 
 ## Key Objectives
+- Identify Workforce Trends – Analyze employee demographics, salary distribution, tenure, and performance to uncover key workforce patterns and trends.
+- Enhance Decision-Making – Provide data-driven insights on employee retention, compensation structures, and workforce diversity to support HR strategies.
+- Visualize Key Metrics – Leverage Power BI and SQL to create interactive dashboards, enabling HR teams to explore performance, salary correlations, and hiring trends effectively.
+
+## Data Decription
+This dataset provides overview into various aspects of the workforce, helping HR teams make data-driven decisions.
+1. Employee Demographics – This dataset provides findingss into workforce composition, including age, gender, department, and tenure. It helps analyze diversity, track employee distribution, and understand workforce dynamics.
+2. Compensation Data – This dataset provides findings into salary, bonuses, and job titles. It helps evaluate salary distribution, identify pay gaps, and assess compensation fairness across different roles.
+3. Performance Metrics – This datasetshows employee performance, including performance scores and top performer percentages. It helps measure productivity, recognize high achievers, and identify areas for improvement.
+4. Workforce Movement – This dataset provides insights into hiring trends, attrition rates, and tenure over time. It helps HR teams track employee retention, monitor workforce stability, and plan for future staffing needs.
+5. HR overview via SQL Analysis – This dataset provides insights into gender distribution, department-wise performance, and salary trends. It helps uncover workforce patterns, assess department productivity, and optimize compensation strategies.
+
 ### Total Employee
 Understanding the total employee count is very important in an organization. This Analysis focuses on tracking the total number of employee in the organisation
 
@@ -12,16 +22,33 @@ Understanding the total employee count is very important in an organization. Thi
 ### Age Distribution
 Understanding the age distribution of an employee is necessary for workforce planning, diversity management and successful planning. it also helps Hr identify trends related to employee demographics . For this analysis , we can see that we have 48% middle age staff, 32.3% experience staff and 19.7% young staff which means the organization has a balanced workforce, with a strong presence of middle-aged.
 
-![image](https://github.com/user-attachments/assets/e1b6d0ad-89b7-476a-8e5a-ad2f966abac2)
+<img src="https://github.com/user-attachments/assets/f0450402-bd81-4746-88a1-9d28bb199221" width="900">
 
 Other visualisations done are:
 - Salary distribution by job title
+  
+<img src="https://github.com/user-attachments/assets/249f6b4c-bd28-4f9b-b87d-9b9bb0bb7da5" width="900">
+
+
+The average salaries for Specialist, Analyst, Manager, Engineer, and Coordinator appear to be close to each other, with little variation. This indicate a standardized pay structure across these job titles. The dotted line representing the maximum salary fluctuates across roles. The engineering role shows a noticeable dip, meaning some engineer may be earning less than the highest earners in other roles. Manager and specialist have higher maximum salary points compared to engineer and Coordinators. If certain roles have lower maximum salaries than expected, it may indicate limited salary growth opportunities or a cap on their salaries. The Management might need to review whether technical roles are fairly compensated compared to senior roles like Manager
+
 - Average performance score
 - Top performance percentage
 - Gender distribution across Department
+
+<img src="https://github.com/user-attachments/assets/5c371ac5-04f6-4d19-9fe0-9e465a024a64" width="900">
+
+Looking at the Gender Distribution, it shows that most departments have a mix of male, female, and non-binary employees, though the proportions may vary. Some departments, such as HR and Sales, appear to have a higher concentration of one gender which is female over the others. This might be because HR and Sales roles is associated with skills like communication, relationship-building, and emotional intelligence. 
 - Correlation between performace and Salary
 - Spread of Salary
 - Average Tenure over the years.
+
+<img src="https://github.com/user-attachments/assets/65b3a2a9-fa66-4647-b770-50cd3855519e" width="900">
+
+This chart visualizes average employee tenure (blue bars) and attrition rate (blue line) over time.
+The average tenure remains relatively stable, with some small variations over the years. There is a noticeable peak around 2018–2019, suggesting employees stayed longer during this period. The attrition rate (line graph) declines after 2015, indicating fewer employees were leaving. However, around 2020, attrition spikes, possibly due to external factors like industry shifts or economic changes or covid. The rate stabilizes but remains higher than previous years, suggesting continued turnover challenges. When attrition is high, average tenure decreases—meaning more employees leave before staying long. When attrition drops, employees stay longer, increasing average tenure.
+
+Below is my Dashbord overview , using powerbi. 
 
   ![Hr report 1](https://github.com/user-attachments/assets/56583f10-7d90-4dc1-8d86-06c6a8c15588)
 
